@@ -1,0 +1,3 @@
+﻿#EXTM3U
+#EXTINF:-1 group-title="TDT"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png",La 1
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
