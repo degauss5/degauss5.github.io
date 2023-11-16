@@ -1,0 +1,29 @@
+﻿#EXTM3U
+#EXTINF:-1 :http-user-agent="ETB 1":http-referrer="ETB1.TV"tvg-id="https://graph.facebook.com/eitb/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",ETB 1
+https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+#EXTINF:-1 :http-user-agent="ETB 2":http-referrer="ETB2.TV"tvg-id="https://graph.facebook.com/eitb/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",ETB 2
+https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+#EXTINF:-1 :http-user-agent="ETB Eventos 1":http-referrer=""tvg-id="https://graph.facebook.com/eitb/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",ETB Eventos 1
+https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
+#EXTINF:-1 :http-user-agent="ETB Eventos 2":http-referrer=""tvg-id="https://graph.facebook.com/eitb/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",ETB Eventos 2 GEO
+https://multimedia.eitb.eus/live-content/oka2hd-hls/master.m3u8
+#EXTINF:-1 :http-user-agent="Hamaika TV":http-referrer=""tvg-id="https://graph.facebook.com/HamaikaTb/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Hamaika TV
+https://cdn3.wowza.com/1/RERMR282dnU5eE5Z/OHY0dVFs/hls/live/playlist.m3u8
+#EXTINF:-1 :http-user-agent="Tele 7":http-referrer=""tvg-id="https://graph.facebook.com/Tele7Radio7/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Tele 7
+https://ingest2-video.streaming-pro.com/tele7_ABR/stream/playlist.m3u8
+#EXTINF:-1 :http-user-agent="Goiena Eus":http-referrer=""tvg-id="https://graph.facebook.com/goiena.eus/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Goiena Eus
+https://zuzenean.goienamedia.eus/goiena-telebista.m3u8
+#EXTINF:-1 :http-user-agent="Durangaldeko TV":http-referrer=""tvg-id="https://graph.facebook.com/dotbDurangaldekoTelebista/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Durangaldeko TV
+https://live.emitstream.com/hls/5f9asjsehd7gmyxsdpzu/master.m3u8
+#EXTINF:-1 :http-user-agent="Goierri Irrati TV":http-referrer=""tvg-id="https://graph.facebook.com/GoierriIrratiTelebista/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Goierri Irrati TV
+https://5940924978228.streamlock.net/8155/8155/playlist.m3u8
+#EXTINF:-1 :http-user-agent="28 Kanala":http-referrer=""tvg-id="https://graph.facebook.com/28kanala/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",28 Kanala
+https://5940924978228.streamlock.net/8157/8157/master.m3u8
+#EXTINF:-1 :http-user-agent="TeleBilbao":http-referrer=""tvg-id="https://graph.facebook.com/312994995454199/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",TeleBilbao
+https://cloudbilbao.todostreaming.es/live/telebilbao-livestream.m3u8
+#EXTINF:-1 :http-user-agent="Erlo TV":http-referrer=""tvg-id="https://graph.facebook.com/542582126141223/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Erlo TV
+https://5940924978228.streamlock.net/8159/8159/master.m3u8
+#EXTINF:-1 :http-user-agent="Oizmendi TV":http-referrer=""tvg-id="https://graph.facebook.com/oizmenditelebista/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Oizmendi TV
+https://5940924978228.streamlock.net/8161/8161/master.m3u8
+#EXTINF:-1 :http-user-agent="Urola TV":http-referrer=""tvg-id="https://graph.facebook.com/urolatelebista/picture?width=200&height=200"tvg-name="País Vasco"group-title="VASCAS"tvg-logo="",Urola TV
+https://5940924978228.streamlock.net/j_Directo2/mp4:j_Directo2/playlist.m3u8
