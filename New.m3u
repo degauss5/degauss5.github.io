@@ -1,9 +1,5 @@
 ﻿#EXTM3U
-#EXTINF:-1 group-title="TDT"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/TVE.png",La 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
-#EXTINF:-1 group-title="TDT"tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/LA2.png",La 2
-https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Fast & Furious X" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qDRrP4NATGTWH8ORJV6T0BeoIhQ.jpg" group-title="Saga Fast & Furious",Fast & Furious X
-http://korhelmbru.servebeer.com:25461/movie/3c7VdcXcvS/S9MTG8QhAy/6.mp4
-#EXTINF:-1 tvg-id="" tvg-name="Rebel" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/r0Gk2temTzEtgFnB5oPCsY3bSVn.jpg" group-title="2023",Rebel
-http://korhelmbru.servebeer.com:25461/movie/3c7VdcXcvS/S9MTG8QhAy/7.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="TDT",La 1 UHD
+acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1 tvg-id="" tvg-name="M LA LIGA 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="FUTBOL",M LA LIGA 1080p
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
