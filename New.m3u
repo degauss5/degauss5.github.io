@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="La 1 UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="TDT",La 1 UHD
+#EXTINF:-1 tvg-id="" tvg-name="La 1 UHD Multiaudio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/125px-Logo_TVE-1.svg.png" group-title="TDT",La 1 UHD Multiaudio
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="" tvg-name="M LA LIGA 1080p" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg/175px-LaLigaTV_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="FUTBOL",M LA LIGA 1080p
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 1080" tvg-logo="" group-title="FUTBOL",DAZN LA LIGA 1080
-acestream://1960a9be8ae9e8c755330218eac4c5805466290a
+acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
