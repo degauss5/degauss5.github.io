@@ -4,19 +4,19 @@
   "image": "https://degauss5.github.io/degauss5.png",
   "groups": [
         {
-          "name": "AFICIONADOS",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://aficionados.vercel.app/af1cionados.w3u"
+          "name": "CANALES TV",
+          "image": "https://degauss5.github.io/tv.png",
+          "url": "https://bit.ly/4alvKIv"
         },
         {
-          "name": "CANO [Acestream]",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt"
+          "name": "DEPORTES",
+          "image": "https://degauss5.github.io/deportes.png",
+          "url": "https://bit.ly/3NbI1oI"
         },
         {
-          "name": "CANO [HTTP]",
-          "image": "https://i.imgur.com/YAaMwxN.png",
-          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt"
+          "name": "VOD",
+          "image": "https://degauss5.github.io/cine.png",
+          "url": "https://bit.ly/3sVYCGp"
         }
   ]
 }
