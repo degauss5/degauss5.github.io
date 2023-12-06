@@ -1,0 +1,18 @@
+{
+  "name": "MEGA LISTA DEGAUSS5",
+  "author": "degauss5",
+  "image": "https://degauss5.github.io/degauss5.png",
+  "url": "https://megalistawiseplay.vercel.app/megalista.w3u",
+  "groups": [
+    {
+      "name": "Importar Listas",
+      "image": "https://i.imgur.com/YAaMwxN.png",
+      "stations": [
+        {
+          "name": "Aficionados | AÃ±adir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://aficionados.vercel.app/af1cionados.w3u",
+          "import": true
+        },
+          ]
+}
