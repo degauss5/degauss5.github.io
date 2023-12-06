@@ -1,17 +1,32 @@
 {
-  "name": "MEGA LISTA DEGAUSS5",
+  "name": "LISTAS DEGAUSS5",
   "author": "degauss5",
   "image": "https://degauss5.github.io/degauss5.png",
+  "info": "Listas",
   "groups": [
     {
       "name": "Importar Listas",
       "image": "https://i.imgur.com/YAaMwxN.png",
       "stations": [
         {
-          "name": "Aficionados | AÃ±adir Lista",
+          "name": "AFICIONADOS | Añadir Lista",
           "image": "https://i.imgur.com/YAaMwxN.png",
           "url": "https://aficionados.vercel.app/af1cionados.w3u",
           "import": true
         },
-          ]
+        {
+          "name": "CANO [Acestream] | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/base.txt",
+          "import": true
+        },
+        {
+          "name": "CANO [HTTP] | Añadir Lista",
+          "image": "https://i.imgur.com/YAaMwxN.png",
+          "url": "https://9xtpkqyjexwfcowclmr65sdvz.vercel.app/get.txt",
+          "import": true
+        }
+      ]
+    }
+  ]
 }
