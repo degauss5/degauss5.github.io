@@ -1,1 +1,34 @@
+{
+  "name": "Lista TV",
+  "author": "degauss5",
+  "image": "https://degauss5.github.io/degauss5.png",
+  "groups": [
 
+        {
+            "name": "TDT",
+            "url": "https://www.tdtchannels.com/lists/tv.w3u",
+            "image": "https://play-lh.googleusercontent.com/n_FDnchFo4pCPVvikk4dUef0q1LtZIOl1ZB3a3NAg8cB4WeGvCpU4uxcNpbfn0eQ_pw=w240-h480-rw"
+        },
+        {
+            "name": "RUNTIME TV",
+            "image": "https://play-lh.googleusercontent.com/RC9Ifc7qVxRLT1CJbd2cMRUVTv0jGvY-jKgSIjRwIXVcBxEEsEaQOgqyUdptxDMPRE4M",
+            "url": "https://raw.githubusercontent.com/HelmerLuzo/RuntimeTV_HL/main/tv/w3u/RuntimeTV_tv.w3u"
+        },
+        {
+            "name": "PLEX TV",
+            "image": "https://play-lh.googleusercontent.com/slZYN_wnlAZ4BmyTZZakwfwAGm8JE5btL7u7AifhqCtUuxhtVVxQ1mcgpGOYC7MsAaU",
+            "url": "https://i.mjh.nz/Plex/all.m3u8"
+        },
+        {
+            "name": "RAKUTEN TV",
+            "image": "https://theme.zdassets.com/theme_assets/51524/54f9d89530d73daf68e173ad0cf6cac7db49e2fc.png",
+            "url": https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
+        },
+        {
+            "name": "CANELA TV",
+            "image": "https://s3-us-west-2.amazonaws.com/audienceawardsimages/Misc/UnTagged/165583771621.png",
+            "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u"
+        }
+
+  ]
+}
