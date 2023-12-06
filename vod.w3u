@@ -1,1 +1,22 @@
-
+{
+  "name": "Lista VOD",
+  "author": "degauss5",
+  "image": "https://degauss5.github.io/degauss5.png",
+  "groups": [
+        {
+            "name": "PELÍCULAS PLUTO",
+            "image": "https://play-lh.googleusercontent.com/gIiZK9ZUU7tt8N08ozfe8OPBnW-KPREAHdbN1WDvqqSscVdAQuuP2_i2c1Gm2zHJ_S9x",
+            "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u"
+        },
+        {
+            "name": "CHUKY CINE Y SERIES",
+            "image": "https://1.bp.blogspot.com/-kaoSEPayia8/TnTSo_tPToI/AAAAAAAAEhw/Wgi6JqxGo0Q/s1600/Chucky-video-game-Wallpaper-2.jpg",
+            "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+        },
+        {
+            "name":"TIRISTAR",
+            "image": "https://degauss5.github.io/tirimosqui.png",
+            "url": "https://github.com/tirimosqui2/varios/raw/main/TIRI_vod.json"
+        }
+  ]
+}
