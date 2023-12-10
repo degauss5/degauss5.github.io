@@ -61,6 +61,8 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/190999
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242408
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV SD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181901
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV [relectro]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46529
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga FHD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228844
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga HD [mozza]
@@ -71,3 +73,5 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228846
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242410
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga [3] [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/243632
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga [relectro]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46530
