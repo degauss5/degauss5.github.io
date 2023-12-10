@@ -1,1 +1,73 @@
-
+{
+"name": "IptVs",
+"author": "degauss5",
+"image": "https://degauss5.github.io/degauss5.png",
+"url": "https://degauss5.github.io/pilot.w3u",
+"info":"",
+"groups":
+    [
+		{
+         "name": "IPTV Europa 02",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://mozzatv.com.es:2082/get.php?username=manuvi&password=zu6E98UFenz&type=m3u_plus",
+         "info":"70 conex",
+         "import": false
+        },
+		{
+         "name": "IPTV Europa 04",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://home-playtv.com:8080/get.php?username=powertv&password=ebqwUHmXQvxt&type=m3u_plus",
+         "info":"120 conex",
+         "import": false
+        },
+		{
+         "name": "IPTV Europa 06",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://relectro.xyz:8080/get.php?username=JoseWeib-TV&password=A5wjQDud0T&type=m3u_plus",
+         "info":"500 conex",
+         "import": false
+        },
+		{
+         "name": "IPTV Europa 08",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://flashprinttv.com:2086/get.php?username=gPAckvByDfYR&password=jXLwp4yFjGHS&type=m3u_plus",
+         "info":"100 conex",
+         "import": false
+        },
+		{
+         "name": "IPTV Europa 10",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://newcoco.pinals.xyz:8080/get.php?username=Leafar&password=fQE5BM66Hc&type=m3u_plus",
+         "info":"150 conex",
+         "import": false
+        },
+		{
+         "name": "IPTV Europa 12",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+        "url": "http://flashprinttv.com:2086/get.php?username=agimstr792&password=8V6CL6nYwfjV&type=m3u_plus",
+         "info":"150 conex",
+         "import": false
+        },
+        {
+         "name": "IPTV Europa 14",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://flashprinttv.com:2086/get.php?username=AGHxghnnWvR7&password=dv8L2J3vbSJX&type=m3u_plus",
+         "info":"50 conex",
+         "import": false
+        },
+        {
+         "name": "IPTV Europa 16",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://flashprinttv.com:2086/get.php?username=GMWsZtFETunJ&password=2HynLASEAQ6Z&type=m3u_plus",
+         "info":"100 conex",
+         "import": false
+        },
+        {
+         "name": "IPTV Europa 18",
+         "image": "https://i.postimg.cc/Ls8C0MHW/tv-espa-a-new.png",
+         "url": "http://flashprinttv.com:2086/get.php?username=gPAckvByDfYR&password=jXLwp4yFjGHS&type=m3u_plus",
+         "info":"150 conex",
+         "import": false
+        }
+    ]
+}
