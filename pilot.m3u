@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/EPG_HL/epg/wictvthrones_EPG_HL.xml.gz"
 #EXTINF:-1 tvg-id=""es.la1"" tvg-name="""" tvg-logo=""https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png"" group-title=""ðŸ“º TDT"",La 1 FHD
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033"
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033
 #EXTINF:-1 tvg-id=""es.la1"" tvg-name="""" tvg-logo=""https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png"" group-title=""ðŸ“º TDT"",La 1 HD
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178032"
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178032
 #EXTINF:-1 tvg-id=""es.la1"" tvg-name="""" tvg-logo=""https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png"" group-title=""ðŸ“º TDT"",La 1 SD
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178031"
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178031
