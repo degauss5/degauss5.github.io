@@ -1,49 +1,73 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/EPG_HL/epg/wictvthrones_EPG_HL.xml.gz"
 #EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="> TDT",La 1 FHD [mozza]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033
-#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="> TDT",La 1 HD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178032
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="> TDT",La 1 HD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033
 #EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="> TDT",La 1 SD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178031
-#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="> TDT",La 1 [homeplay]
-http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/203636
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="> TDT",La 1 [relectro]
+https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="> TDT",La 2 FHD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178036
 #EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="> TDT",La 2 HD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178035
 #EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="> TDT",La 2 SD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178034
-#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="> TDT",La 2 [homeplay]
-http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/56102
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="> TDT",La 2 [relectro]
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="> TDT",Antena 3 FHD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178039
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="> TDT",Antena 3 HD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178038
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="> TDT",Antena 3 SD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178037
-#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="> TDT",Antena 3 [homeplay]
-http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/54407
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="> TDT",Antena 3 [relectro]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46466
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="> TDT",Cuatro FHD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178042
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="> TDT",Cuatro HD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178041
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="> TDT",Cuatro SD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178040
-#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="> TDT",Cuatro [homeplay]
-http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/54409
+#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="> TDT",Cuatro [relectro]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46467
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="> TDT",Telecinco FHD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181913
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="> TDT",Telecinco HD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178044
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="> TDT",Telecinco SD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178043
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="> TDT",Telecinco [homeplay]
-http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/54483
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="> TDT",Telecinco [relectro]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46468
 #EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="> TDT",La Sexta FHD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178047
 #EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="> TDT",La Sexta HD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178046
 #EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="> TDT",La Sexta SD  [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178045
-#EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="> TDT",La Sexta [homeplay]
-http://home-playtv.com:8080/powertv/ebqwUHmXQvxt/54411
+#EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="> TDT",La Sexta [relectro]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46473
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV 4K [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151647
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV 2K [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151646
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV FHD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151645
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV FHD [2] [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242409
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV HD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/190999
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV HD [2] [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242408
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV SD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181901
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga FHD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228844
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga HD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228845
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga SD [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228846
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga [2] [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242410
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga [3] [mozza]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/243632
