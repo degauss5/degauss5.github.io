@@ -69,6 +69,16 @@ http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336237
 http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336234
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV SD [flashprinttv]
 http://flashprinttv.com:2086/agimstr792/8V6CL6nYwfjV/336233
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV FHD [tv_channels]
+http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336237
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV HD [tv_channels]
+http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336234
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV SD [tv_channels]
+http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336233
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV ORANGE [tv_channels]
+http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/452539
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="> LaLigaTV",M+ LaLigaTV ENCODER [tv_channels]
+http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/460349
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga FHD [mozza]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228844
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="> LaLigaTV",DAZN LaLiga HD [mozza]
