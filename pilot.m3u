@@ -1,669 +1,669 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/EPG_HL/epg/wictvthrones_EPG_HL.xml.gz"
-#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[mozza]>TDT",La 1 FHD
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[02]>TDT",La 1 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033
-#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[mozza]>TDT",La 1 HD
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[02]>TDT",La 1 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178032
-#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[mozza]>TDT",La 1 SD
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[02]>TDT",La 1 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178031
-#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[mozza]>TDT",La 2 FHD
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[02]>TDT",La 2 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178036
-#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[mozza]>TDT",La 2 HD
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[02]>TDT",La 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178035
-#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[mozza]>TDT",La 2 SD
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[02]>TDT",La 2 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178034
-#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[mozza]>TDT",Antena 3 FHD
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[02]>TDT",Antena 3 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178039
-#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[mozza]>TDT",Antena 3 HD
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[02]>TDT",Antena 3 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178038
-#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[mozza]>TDT",Antena 3 SD
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[02]>TDT",Antena 3 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178037
-#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[mozza]>TDT",Cuatro FHD
+#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[02]>TDT",Cuatro FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178042
-#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[mozza]>TDT",Cuatro HD
+#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[02]>TDT",Cuatro HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178041
-#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[mozza]>TDT",Cuatro SD
+#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[02]>TDT",Cuatro SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178040
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",Telecinco FHD
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",Telecinco FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181913
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",Telecinco HD
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",Telecinco HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178044
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",Telecinco SD
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",Telecinco SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178043
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",La Sexta FHD
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",La Sexta FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178047
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",La Sexta HD
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",La Sexta HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178046
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",La Sexta SD
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",La Sexta SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178045
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[mozza]>TDT",24 Horas
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[02]>TDT",24 Horas
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178049
-#EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[mozza]>Cine y series",AMC FHD
+#EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[02]>Cine y series",AMC FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178144
-#EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[mozza]>Cine y series",AMC HD
+#EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[02]>Cine y series",AMC HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178143
-#EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[mozza]>Cine y series",AMC SD
+#EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[02]>Cine y series",AMC SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178142
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[mozza]>Cine y series",AMC Break FHD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[02]>Cine y series",AMC Break FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219260
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[mozza]>Cine y series",AMC Break HD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[02]>Cine y series",AMC Break HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219259
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[mozza]>Cine y series",ES: AMC BREAK HD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[02]>Cine y series",ES: AMC BREAK HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/375659
-#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[mozza]>Cine y series",ES: AMC BREAK SD
+#EXTINF:-1 tvg-id="AMC Break" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png" group-title="[02]>Cine y series",ES: AMC BREAK SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/375658
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="[mozza]>Cine y series",AMC Crime FHD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="[02]>Cine y series",AMC Crime FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219263
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="[mozza]>Cine y series",AMC Crime HD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="[02]>Cine y series",AMC Crime HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219262
-#EXTINF:-1 tvg-id="AMC Crime" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="[mozza]>Cine y series",AMC Crime SD
+#EXTINF:-1 tvg-id="AMC Crime" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYM.png" group-title="[02]>Cine y series",AMC Crime SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219261
-#EXTINF:-1 tvg-id="es.atreseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.atreseries.png" group-title="[mozza]>Cine y series",A3Series FHD
+#EXTINF:-1 tvg-id="es.atreseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.atreseries.png" group-title="[02]>Cine y series",A3Series FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178105
-#EXTINF:-1 tvg-id="es.atreseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.atreseries.png" group-title="[mozza]>Cine y series",A3Series HD
+#EXTINF:-1 tvg-id="es.atreseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.atreseries.png" group-title="[02]>Cine y series",A3Series HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178104
-#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="[mozza]>Cine y series",AXN FHD
+#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="[02]>Cine y series",AXN FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178114
-#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="[mozza]>Cine y series",AXN HD
+#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="[02]>Cine y series",AXN HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178113
-#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="[mozza]>Cine y series",AXN SD
+#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="[02]>Cine y series",AXN SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178112
-#EXTINF:-1 tvg-id="es.bemadtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.bemadtv.png" group-title="[mozza]>Cine y series",Be Mad FHD
+#EXTINF:-1 tvg-id="es.bemadtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.bemadtv.png" group-title="[02]>Cine y series",Be Mad FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178062
-#EXTINF:-1 tvg-id="es.bemadtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.bemadtv.png" group-title="[mozza]>Cine y series",Be Mad SD
+#EXTINF:-1 tvg-id="es.bemadtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.bemadtv.png" group-title="[02]>Cine y series",Be Mad SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178061
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[mozza]>Cine y series",BOM
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[02]>Cine y series",BOM
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178100
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[mozza]>Cine y series",ES: BOM CINE
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[02]>Cine y series",ES: BOM CINE
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372100
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[mozza]>Cine y series",ES: BOMCINE HD
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[02]>Cine y series",ES: BOMCINE HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/375653
-#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[mozza]>Cine y series",ES: BOMCINE SD
+#EXTINF:-1 tvg-id="BOM Cine" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/130px-Logo-bom.svg.png" group-title="[02]>Cine y series",ES: BOMCINE SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/375652
-#EXTINF:-1 tvg-id="es.calle13" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.calle13.png" group-title="[mozza]>Cine y series",Calle 13 FHD
+#EXTINF:-1 tvg-id="es.calle13" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.calle13.png" group-title="[02]>Cine y series",Calle 13 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178126
-#EXTINF:-1 tvg-id="es.calle13" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.calle13.png" group-title="[mozza]>Cine y series",Calle 13 HD
+#EXTINF:-1 tvg-id="es.calle13" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.calle13.png" group-title="[02]>Cine y series",Calle 13 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178125
-#EXTINF:-1 tvg-id="es.calle13" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.calle13.png" group-title="[mozza]>Cine y series",Calle 13 SD
+#EXTINF:-1 tvg-id="es.calle13" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.calle13.png" group-title="[02]>Cine y series",Calle 13 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178124
-#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="[mozza]>Cine y series",Comedy Central FHD
+#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="[02]>Cine y series",Comedy Central FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178132
-#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="[mozza]>Cine y series",Comedy Central HD
+#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="[02]>Cine y series",Comedy Central HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178131
-#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="[mozza]>Cine y series",Comedy Central SD
+#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="[02]>Cine y series",Comedy Central SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178130
-#EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[mozza]>Cine y series",Cosmo FHD
+#EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[02]>Cine y series",Cosmo FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178129
-#EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[mozza]>Cine y series",Cosmo HD
+#EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[02]>Cine y series",Cosmo HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178128
-#EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[mozza]>Cine y series",Cosmo SD
+#EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[02]>Cine y series",Cosmo SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178127
-#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[mozza]>Cine y series",DARK FHD
+#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[02]>Cine y series",DARK FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178220
-#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[mozza]>Cine y series",DARK RED
+#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[02]>Cine y series",DARK RED
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178221
-#EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="[mozza]>Cine y series",Divinity HD
+#EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="[02]>Cine y series",Divinity HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178054
-#EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="[mozza]>Cine y series",Divinity SD
+#EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="[02]>Cine y series",Divinity SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178053
-#EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="[mozza]>Cine y series",Energy FHD
+#EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="[02]>Cine y series",Energy FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178203
-#EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="[mozza]>Cine y series",Energy HD
+#EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="[02]>Cine y series",Energy HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178202
-#EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="[mozza]>Cine y series",Energy SD
+#EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="[02]>Cine y series",Energy SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178201
-#EXTINF:-1 tvg-id="es.fdf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fdf.png" group-title="[mozza]>Cine y series",FDF FHD
+#EXTINF:-1 tvg-id="es.fdf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fdf.png" group-title="[02]>Cine y series",FDF FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178141
-#EXTINF:-1 tvg-id="es.fdf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fdf.png" group-title="[mozza]>Cine y series",FDF HD
+#EXTINF:-1 tvg-id="es.fdf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fdf.png" group-title="[02]>Cine y series",FDF HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178140
-#EXTINF:-1 tvg-id="es.fdf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fdf.png" group-title="[mozza]>Cine y series",FDF SD
+#EXTINF:-1 tvg-id="es.fdf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fdf.png" group-title="[02]>Cine y series",FDF SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178139
-#EXTINF:-1 tvg-id="es.fox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fox.png" group-title="[mozza]>Cine y series",Fox FHD
+#EXTINF:-1 tvg-id="es.fox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fox.png" group-title="[02]>Cine y series",Fox FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178108
-#EXTINF:-1 tvg-id="es.fox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fox.png" group-title="[mozza]>Cine y series",Fox HD
+#EXTINF:-1 tvg-id="es.fox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fox.png" group-title="[02]>Cine y series",Fox HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178107
-#EXTINF:-1 tvg-id="es.fox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fox.png" group-title="[mozza]>Cine y series",Fox SD
+#EXTINF:-1 tvg-id="es.fox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.fox.png" group-title="[02]>Cine y series",Fox SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178106
-#EXTINF:-1 tvg-id="es.hollywood" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.hollywood.png" group-title="[mozza]>Cine y series",Hollywood FHD
+#EXTINF:-1 tvg-id="es.hollywood" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.hollywood.png" group-title="[02]>Cine y series",Hollywood FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178135
-#EXTINF:-1 tvg-id="es.hollywood" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.hollywood.png" group-title="[mozza]>Cine y series",Hollywood HD
+#EXTINF:-1 tvg-id="es.hollywood" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.hollywood.png" group-title="[02]>Cine y series",Hollywood HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178134
-#EXTINF:-1 tvg-id="es.hollywood" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.hollywood.png" group-title="[mozza]>Cine y series",Hollywood SD
+#EXTINF:-1 tvg-id="es.hollywood" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.hollywood.png" group-title="[02]>Cine y series",Hollywood SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178133
-#EXTINF:-1 tvg-id="es.neox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.neox.png" group-title="[mozza]>Cine y series",Neox FHD
+#EXTINF:-1 tvg-id="es.neox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.neox.png" group-title="[02]>Cine y series",Neox FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178064
-#EXTINF:-1 tvg-id="es.neox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.neox.png" group-title="[mozza]>Cine y series",Neox HD
+#EXTINF:-1 tvg-id="es.neox" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.neox.png" group-title="[02]>Cine y series",Neox HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178063
-#EXTINF:-1 tvg-id="es.nova" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.nova.png" group-title="[mozza]>Cine y series",Nova FHD
+#EXTINF:-1 tvg-id="es.nova" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.nova.png" group-title="[02]>Cine y series",Nova FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178052
-#EXTINF:-1 tvg-id="es.nova" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.nova.png" group-title="[mozza]>Cine y series",Nova HD
+#EXTINF:-1 tvg-id="es.nova" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.nova.png" group-title="[02]>Cine y series",Nova HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178051
-#EXTINF:-1 tvg-id="es.paramount" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.paramount.png" group-title="[mozza]>Cine y series",Paramount Channel FHD
+#EXTINF:-1 tvg-id="es.paramount" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.paramount.png" group-title="[02]>Cine y series",Paramount Channel FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178138
-#EXTINF:-1 tvg-id="es.paramount" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.paramount.png" group-title="[mozza]>Cine y series",Paramount Channel HD
+#EXTINF:-1 tvg-id="es.paramount" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.paramount.png" group-title="[02]>Cine y series",Paramount Channel HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178137
-#EXTINF:-1 tvg-id="es.paramount" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.paramount.png" group-title="[mozza]>Cine y series",Paramount Channel SD
+#EXTINF:-1 tvg-id="es.paramount" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.paramount.png" group-title="[02]>Cine y series",Paramount Channel SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178136
-#EXTINF:-1 tvg-id="Selekt" tvg-name="" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="[mozza]02>Cine y series",ES: SELEKT FHD
+#EXTINF:-1 tvg-id="Selekt" tvg-name="" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="[02]>Cine y series",ES: SELEKT FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372101
-#EXTINF:-1 tvg-id="Selekt" tvg-name="" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="[mozza]02>Cine y series",ES: SELEKT HD
+#EXTINF:-1 tvg-id="Selekt" tvg-name="" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="[02]>Cine y series",ES: SELEKT HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372102
-#EXTINF:-1 tvg-id="Selekt" tvg-name="" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="[mozza]02>Cine y series",ES: SELEKT SD
+#EXTINF:-1 tvg-id="Selekt" tvg-name="" tvg-logo="https://images.amcselekt.es/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/ec5526f6a94e70cbfdf97dd698b130b2_AMC%20SELE002.png" group-title="[02]>Cine y series",ES: SELEKT SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372103
-#EXTINF:-1 tvg-id="es.somos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.somos.png" group-title="[mozza]>Cine y series",SOMOS HD
+#EXTINF:-1 tvg-id="es.somos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.somos.png" group-title="[02]>Cine y series",SOMOS HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178151
-#EXTINF:-1 tvg-id="es.sundance" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.sundance.png" group-title="[mozza]>Cine y series",Sundance FHD
+#EXTINF:-1 tvg-id="es.sundance" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.sundance.png" group-title="[02]>Cine y series",Sundance FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178150
-#EXTINF:-1 tvg-id="es.sundance" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.sundance.png" group-title="[mozza]>Cine y series",Sundance HD
+#EXTINF:-1 tvg-id="es.sundance" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.sundance.png" group-title="[02]>Cine y series",Sundance HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178149
-#EXTINF:-1 tvg-id="es.sundance" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.sundance.png" group-title="[mozza]>Cine y series",Sundance SD
+#EXTINF:-1 tvg-id="es.sundance" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.sundance.png" group-title="[02]>Cine y series",Sundance SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178148
-#EXTINF:-1 tvg-id="es.syfy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.syfy.png" group-title="[mozza]>Cine y series",SYFY FHD
+#EXTINF:-1 tvg-id="es.syfy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.syfy.png" group-title="[02]>Cine y series",SYFY FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178123
-#EXTINF:-1 tvg-id="es.syfy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.syfy.png" group-title="[mozza]>Cine y series",SyFy HD
+#EXTINF:-1 tvg-id="es.syfy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.syfy.png" group-title="[02]>Cine y series",SyFy HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178122
-#EXTINF:-1 tvg-id="es.syfy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.syfy.png" group-title="[mozza]>Cine y series",SyFy SD
+#EXTINF:-1 tvg-id="es.syfy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.syfy.png" group-title="[02]>Cine y series",SyFy SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178121
-#EXTINF:-1 tvg-id="es.tcm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.tcm.png" group-title="[mozza]>Cine y series",TCM FHD
+#EXTINF:-1 tvg-id="es.tcm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.tcm.png" group-title="[02]>Cine y series",TCM FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178120
-#EXTINF:-1 tvg-id="es.tcm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.tcm.png" group-title="[mozza]>Cine y series",TCM HD
+#EXTINF:-1 tvg-id="es.tcm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.tcm.png" group-title="[02]>Cine y series",TCM HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178119
-#EXTINF:-1 tvg-id="es.tcm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.tcm.png" group-title="[mozza]>Cine y series",TCM SD
+#EXTINF:-1 tvg-id="es.tcm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.tcm.png" group-title="[02]>Cine y series",TCM SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178118
-#EXTINF:-1 tvg-id="es.ten" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.ten.png" group-title="[mozza]>Cine y series",TEN
+#EXTINF:-1 tvg-id="es.ten" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.ten.png" group-title="[02]>Cine y series",TEN
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178065
-#EXTINF:-1 tvg-id="es.warnertv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.warnertv.png" group-title="[mozza]>Cine y series",Warner TV España FHD
+#EXTINF:-1 tvg-id="es.warnertv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.warnertv.png" group-title="[02]>Cine y series",Warner TV España FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178147
-#EXTINF:-1 tvg-id="es.warnertv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.warnertv.png" group-title="[mozza]>Cine y series",Warner TV España hd
+#EXTINF:-1 tvg-id="es.warnertv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.warnertv.png" group-title="[02]>Cine y series",Warner TV España hd
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178146
-#EXTINF:-1 tvg-id="es.warnertv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.warnertv.png" group-title="[mozza]>Cine y series",Warner TV España sd
+#EXTINF:-1 tvg-id="es.warnertv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.warnertv.png" group-title="[02]>Cine y series",Warner TV España sd
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178145
-#EXTINF:-1 tvg-id="es.xtrm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.xtrm.png" group-title="[mozza]>Cine y series",XTRM FHD
+#EXTINF:-1 tvg-id="es.xtrm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.xtrm.png" group-title="[02]>Cine y series",XTRM FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178154
-#EXTINF:-1 tvg-id="es.xtrm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.xtrm.png" group-title="[mozza]>Cine y series",XTRM HD
+#EXTINF:-1 tvg-id="es.xtrm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.xtrm.png" group-title="[02]>Cine y series",XTRM HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178153
-#EXTINF:-1 tvg-id="es.xtrm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.xtrm.png" group-title="[mozza]>Cine y series",XTRM SD
+#EXTINF:-1 tvg-id="es.xtrm" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.xtrm.png" group-title="[02]>Cine y series",XTRM SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178152
-#EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[mozza]03>Lifestyle",Blaze FHD
+#EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[02]>Lifestyle",Blaze FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178209
-#EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[mozza]03>Lifestyle",Blaze HD
+#EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[02]>Lifestyle",Blaze HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178208
-#EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[mozza]03>Lifestyle",Blaze SD
+#EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[02]>Lifestyle",Blaze SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178207
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[mozza]>Lifestyle",Canal Cocina FHD
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[02]>Lifestyle",Canal Cocina FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178056
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[mozza]>Lifestyle",Canal Cocina HD
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[02]>Lifestyle",Canal Cocina HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178055
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[mozza]>Lifestyle",ES: CANAL COCINA UHD 4K
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[02]>Lifestyle",ES: CANAL COCINA UHD 4K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372098
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[mozza]>Lifestyle",DeCasa FHD
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[02]>Lifestyle",DeCasa FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178058
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[mozza]>Lifestyle",DeCasa HD
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[02]>Lifestyle",DeCasa HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178057
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[mozza]>Lifestyle",ES: DECASA UHD 4K
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[02]>Lifestyle",ES: DECASA UHD 4K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372099
-#EXTINF:-1 tvg-id="es.dkiss" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dkiss.png" group-title="[mozza]>Lifestyle",Dkiss HD
+#EXTINF:-1 tvg-id="es.dkiss" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dkiss.png" group-title="[02]>Lifestyle",Dkiss HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178060
-#EXTINF:-1 tvg-id="es.dkiss" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dkiss.png" group-title="[mozza]>Lifestyle",Dkiss SD
+#EXTINF:-1 tvg-id="es.dkiss" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dkiss.png" group-title="[02]>Lifestyle",Dkiss SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178059
-#EXTINF:-1 tvg-id="es.dmax" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dmax.png" group-title="[mozza]>Lifestyle",DMAX FHD
+#EXTINF:-1 tvg-id="es.dmax" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dmax.png" group-title="[02]>Lifestyle",DMAX FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178212
-#EXTINF:-1 tvg-id="es.dmax" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dmax.png" group-title="[mozza]>Lifestyle",DMAX HD
+#EXTINF:-1 tvg-id="es.dmax" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dmax.png" group-title="[02]>Lifestyle",DMAX HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178211
-#EXTINF:-1 tvg-id="es.dmax" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dmax.png" group-title="[mozza]>Lifestyle",Dmax SD
+#EXTINF:-1 tvg-id="es.dmax" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dmax.png" group-title="[02]>Lifestyle",Dmax SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178210
-#EXTINF:-1 tvg-id="es.mega" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mega.png" group-title="[mozza]>Lifestyle",Mega FHD
+#EXTINF:-1 tvg-id="es.mega" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mega.png" group-title="[02]>Lifestyle",Mega FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178206
-#EXTINF:-1 tvg-id="es.mega" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mega.png" group-title="[mozza]>Lifestyle",Mega HD
+#EXTINF:-1 tvg-id="es.mega" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mega.png" group-title="[02]>Lifestyle",Mega HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178205
-#EXTINF:-1 tvg-id="es.mega" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mega.png" group-title="[mozza]>Lifestyle",Mega SD
+#EXTINF:-1 tvg-id="es.mega" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mega.png" group-title="[02]>Lifestyle",Mega SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178204
-#EXTINF:-1 tvg-id="es.mtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mtv.png" group-title="[mozza]>Lifestyle",MTV Espana
+#EXTINF:-1 tvg-id="es.mtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mtv.png" group-title="[02]>Lifestyle",MTV Espana
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219646
-#EXTINF:-1 tvg-id="es.mtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mtv.png" group-title="[mozza]>Lifestyle",MTV ESPAÑA
+#EXTINF:-1 tvg-id="es.mtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mtv.png" group-title="[02]>Lifestyle",MTV ESPAÑA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181915
-#EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="[mozza]>M+ Cine y Series",M. Accion FHD
+#EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="[02]>M+ Cine y Series",M. Accion FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178075
-#EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="[mozza]>M+ Cine y Series",M. Accion HD
+#EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="[02]>M+ Cine y Series",M. Accion HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178074
-#EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="[mozza]>M+ Cine y Series",M. Accion SD
+#EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="[02]>M+ Cine y Series",M. Accion SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178073
-#EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="[mozza]>M+ Cine y Series",M. Cine FHD
+#EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="[02]>M+ Cine y Series",M. Cine FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178078
-#EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="[mozza]>M+ Cine y Series",M. Cine HD
+#EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="[02]>M+ Cine y Series",M. Cine HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178077
-#EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="[mozza]>M+ Cine y Series",M. Cine SD
+#EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="[02]>M+ Cine y Series",M. Cine SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178076
-#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="[mozza]>M+ Cine y Series",M. Dcine Espanyol FHD
+#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="[02]>M+ Cine y Series",M. Dcine Espanyol FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178087
-#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="[mozza]>M+ Cine y Series",M. Dcine Espanyol HD
+#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="[02]>M+ Cine y Series",M. Dcine Espanyol HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178086
-#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="[mozza]>M+ Cine y Series",M. Dcine Espanyol SD
+#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="[02]>M+ Cine y Series",M. Dcine Espanyol SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178085
-#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="[mozza]>M+ Cine y Series",M. Clasicos FHD
+#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="[02]>M+ Cine y Series",M. Clasicos FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178093
-#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="[mozza]>M+ Cine y Series",M. Clasicos HD
+#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="[02]>M+ Cine y Series",M. Clasicos HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178092
-#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="[mozza]>M+ Cine y Series",M. Clasicos SD
+#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="[02]>M+ Cine y Series",M. Clasicos SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178091
-#EXTINF:-1 tvg-id="es.mcomedia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcomedia.png" group-title="[mozza]>M+ Cine y Series",M. Comedia FHD
+#EXTINF:-1 tvg-id="es.mcomedia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcomedia.png" group-title="[02]>M+ Cine y Series",M. Comedia FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178084
-#EXTINF:-1 tvg-id="es.mcomedia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcomedia.png" group-title="[mozza]>M+ Cine y Series",M. Comedia HD
+#EXTINF:-1 tvg-id="es.mcomedia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcomedia.png" group-title="[02]>M+ Cine y Series",M. Comedia HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178083
-#EXTINF:-1 tvg-id="es.mcomedia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcomedia.png" group-title="[mozza]>M+ Cine y Series",M. Comedia SD
+#EXTINF:-1 tvg-id="es.mcomedia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcomedia.png" group-title="[02]>M+ Cine y Series",M. Comedia SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178082
-#EXTINF:-1 tvg-id="es.mdrama" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdrama.png" group-title="[mozza]>M+ Cine y Series",M. Drama FHD
+#EXTINF:-1 tvg-id="es.mdrama" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdrama.png" group-title="[02]>M+ Cine y Series",M. Drama FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178090
-#EXTINF:-1 tvg-id="es.mdrama" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdrama.png" group-title="[mozza]>M+ Cine y Series",M. Drama HD
+#EXTINF:-1 tvg-id="es.mdrama" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdrama.png" group-title="[02]>M+ Cine y Series",M. Drama HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178089
-#EXTINF:-1 tvg-id="es.mdrama" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdrama.png" group-title="[mozza]>M+ Cine y Series",M. Drama SD
+#EXTINF:-1 tvg-id="es.mdrama" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdrama.png" group-title="[02]>M+ Cine y Series",M. Drama SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178088
-#EXTINF:-1 tvg-id="M+ Fest" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="[mozza]04>M+ Cine y Series",M. Fest FHD
+#EXTINF:-1 tvg-id="M+ Fest" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Fest_por_Movistar_Plus%2B_2022_logo.svg/1200px-Fest_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="[02]>M+ Cine y Series",M. Fest FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178068
-#EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="[mozza]>M+ Cine y Series",M+ Indie FHD
+#EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="[02]>M+ Cine y Series",M+ Indie FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390159
-#EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="[mozza]>M+ Cine y Series",M+ Indie HD
+#EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="[02]>M+ Cine y Series",M+ Indie HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390158
-#EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="[mozza]>M+ Cine y Series",M+ Indie SD
+#EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="[02]>M+ Cine y Series",M+ Indie SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390157
-#EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="[mozza]>M+ Cine y Series",MOVISTAR LA RESISTENCIA
+#EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="[02]>M+ Cine y Series",MOVISTAR LA RESISTENCIA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181899
-#EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="[mozza]>M+ Cine y Series",Movistar La Resistencia HD
+#EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="[02]>M+ Cine y Series",Movistar La Resistencia HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178191
-#EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="[mozza]>M+ Cine y Series",Movistar La Resistencia SD
+#EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="[02]>M+ Cine y Series",Movistar La Resistencia SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178189
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[mozza]>M+ Cine y Series",M. Originales FHD
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[02]>M+ Cine y Series",M. Originales FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178072
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[mozza]>M+ Cine y Series",M. Originales HD
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[02]>M+ Cine y Series",M. Originales HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178071
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[mozza]>M+ Cine y Series",M. Originales SD
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[02]>M+ Cine y Series",M. Originales SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178070
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[mozza]>M+ Cine y Series",M+ Originales FHD
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[02]>M+ Cine y Series",M+ Originales FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390153
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[mozza]>M+ Cine y Series",M+ Originales HD
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[02]>M+ Cine y Series",M+ Originales HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390152
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[mozza]>M+ Cine y Series",M+ Originales SD
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[02]>M+ Cine y Series",M+ Originales SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390151
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",M. MUSICA HD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",M. MUSICA HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178067
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",M+ Plus FHD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",M+ Plus FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390156
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",M+ Plus HD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",M+ Plus HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390155
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",M+ Plus SD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",M+ Plus SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390154
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",Movistar Plus FHD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",Movistar Plus FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178081
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",Movistar Plus HD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",Movistar Plus HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178080
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[mozza]>M+ Cine y Series",Movistar Plus SD
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[02]>M+ Cine y Series",Movistar Plus SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178079
-#EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[mozza]>M+ Cine y Series",M. Series FHD
+#EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[02]>M+ Cine y Series",M. Series FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178096
-#EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[mozza]>M+ Cine y Series",M. Series HD
+#EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[02]>M+ Cine y Series",M. Series HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178095
-#EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[mozza]>M+ Cine y Series",M. Series SD
+#EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[02]>M+ Cine y Series",M. Series SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178094
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[mozza]>M+ Cine y Series",M. Suspense FHD
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[02]>M+ Cine y Series",M. Suspense FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178099
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[mozza]>M+ Cine y Series",M. Suspense HD
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[02]>M+ Cine y Series",M. Suspense HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178098
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[mozza]>M+ Cine y Series",M. Suspense SD
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[02]>M+ Cine y Series",M. Suspense SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178097
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[mozza]>M+ Cine y Series",M+ Suspense FHD
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[02]>M+ Cine y Series",M+ Suspense FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390162
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[mozza]>M+ Cine y Series",M+ Suspense HD
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[02]>M+ Cine y Series",M+ Suspense HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390161
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[mozza]>M+ Cine y Series",M+ Suspense SD
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[02]>M+ Cine y Series",M+ Suspense SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390160
-#EXTINF:-1 tvg-id="es.buenviaje" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.buenviaje.png" group-title="[mozza]>Documentales",ES: BUEN VIAJE SD
+#EXTINF:-1 tvg-id="es.buenviaje" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.buenviaje.png" group-title="[02]>Documentales",ES: BUEN VIAJE SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/375651
-#EXTINF:-1 tvg-id="es.historia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.historia.png" group-title="[mozza]>Documentales",Historia FHD
+#EXTINF:-1 tvg-id="es.historia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.historia.png" group-title="[02]>Documentales",Historia FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178197
-#EXTINF:-1 tvg-id="es.historia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.historia.png" group-title="[mozza]>Documentales",Historia HD
+#EXTINF:-1 tvg-id="es.historia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.historia.png" group-title="[02]>Documentales",Historia HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178196
-#EXTINF:-1 tvg-id="es.historia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.historia.png" group-title="[mozza]>Documentales",Historia SD
+#EXTINF:-1 tvg-id="es.historia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.historia.png" group-title="[02]>Documentales",Historia SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178195
-#EXTINF:-1 tvg-id="es.discovery" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.discovery.png" group-title="[mozza]>Documentales",Discovery FHD
+#EXTINF:-1 tvg-id="es.discovery" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.discovery.png" group-title="[02]>Documentales",Discovery FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178200
-#EXTINF:-1 tvg-id="es.discovery" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.discovery.png" group-title="[mozza]>Documentales",Discovery HD
+#EXTINF:-1 tvg-id="es.discovery" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.discovery.png" group-title="[02]>Documentales",Discovery HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178199
-#EXTINF:-1 tvg-id="es.discovery" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.discovery.png" group-title="[mozza]>Documentales",Discovery SD
+#EXTINF:-1 tvg-id="es.discovery" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.discovery.png" group-title="[02]>Documentales",Discovery SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178198
-#EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[mozza]>Documentales",M+ Documentales FHD
+#EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[02]>Documentales",M+ Documentales FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390165
-#EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[mozza]>Documentales",M+ Documentales HD
+#EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[02]>Documentales",M+ Documentales HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390164
-#EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[mozza]>Documentales",M+ Documentales SD
+#EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[02]>Documentales",M+ Documentales SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390163
-#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[mozza]>Documentales",NatGeo FHD
+#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[02]>Documentales",NatGeo FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178184
-#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[mozza]>Documentales",NatGeo HD
+#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[02]>Documentales",NatGeo HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178183
-#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[mozza]>Documentales",NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[02]>Documentales",NATIONAL GEOGRAPHIC
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178182
-#EXTINF:-1 tvg-id="es.natgeowild" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeowild.png" group-title="[mozza]>Documentales",NatGeo  Wild FHD
+#EXTINF:-1 tvg-id="es.natgeowild" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeowild.png" group-title="[02]>Documentales",NatGeo  Wild FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178185
-#EXTINF:-1 tvg-id="es.natgeowild" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeowild.png" group-title="[mozza]>Documentales",NatGeo Wild HD
+#EXTINF:-1 tvg-id="es.natgeowild" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeowild.png" group-title="[02]>Documentales",NatGeo Wild HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/193870
-#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[mozza]>Documentales",CANAL ODISEA 4K
+#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[02]>Documentales",CANAL ODISEA 4K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181914
-#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[mozza]>Documentales",ES: ODISEA UHD 4K
+#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[02]>Documentales",ES: ODISEA UHD 4K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372097
-#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[mozza]>Documentales",Odisea FHD
+#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[02]>Documentales",Odisea FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178188
-#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[mozza]>Documentales",Odisea HD
+#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[02]>Documentales",Odisea HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178187
-#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[mozza]>Documentales",Odisea SD
+#EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[02]>Documentales",Odisea SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178186
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[mozza]>LaLigaTV",dazn liga
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[02]>LaLigaTV",dazn liga
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416104
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[mozza]>LaLigaTV",dazn liga
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[02]>LaLigaTV",dazn liga
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416105
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[mozza]>LaLigaTV",DAZN LIGA ALTERNATIVA
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[02]>LaLigaTV",DAZN LIGA ALTERNATIVA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242410
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[mozza]>LaLigaTV",DAZN LIGA FHD
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[02]>LaLigaTV",DAZN LIGA FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228844
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[mozza]>LaLigaTV",DAZN LIGA HD
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[02]>LaLigaTV",DAZN LIGA HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228845
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[mozza]>LaLigaTV",DAZN LIGA SD
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[02]>LaLigaTV",DAZN LIGA SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228846
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[mozza]>LaLigaTV",DAZN LIGA 2 FHD
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[02]>LaLigaTV",DAZN LIGA 2 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228848
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[mozza]>LaLigaTV",DAZN LIGA 2 HD
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[02]>LaLigaTV",DAZN LIGA 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228849
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[mozza]>LaLigaTV",DAZN LIGA 2 HD (OP1)
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[02]>LaLigaTV",DAZN LIGA 2 HD (OP1)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228851
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[mozza]>LaLigaTV",DAZN LIGA 2 SD
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[02]>LaLigaTV",DAZN LIGA 2 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228850
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[mozza]>LaLigaTV",DAZN LIGA ALTERNATIVA 2
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[02]>LaLigaTV",DAZN LIGA ALTERNATIVA 2
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/243632
-#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[mozza]>LaLigaTV",ELLAS #V FHD
+#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[02]>LaLigaTV",ELLAS #V FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219264
-#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[mozza]>LaLigaTV",LaLiga TV Bar FHD
+#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[02]>LaLigaTV",LaLiga TV Bar FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/155934
-#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[mozza]>LaLigaTV",LaLiga TV Bar HD
+#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[02]>LaLigaTV",LaLiga TV Bar HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/155933
-#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[mozza]>LaLigaTV",LaLiga TV Bar SD
+#EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[02]>LaLigaTV",LaLiga TV Bar SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/155932
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",LALIGA FHD ALTERNATIVA
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",LALIGA FHD ALTERNATIVA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242409
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",M Liga Especial
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",M Liga Especial
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158915
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",M. LaLiga 2 OPC2
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",M. LaLiga 2 OPC2
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158918
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",M. LaLiga 3 OPC2
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",M. LaLiga 3 OPC2
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158919
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",M. LaLiga HD OPC2
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",M. LaLiga HD OPC2
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158914
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",M. LaLiga OPC3
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",M. LaLiga OPC3
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158917
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA  SD
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA  SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181901
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA 1 (Solo Eventos)
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA 1 (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151648
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA 1 FULLHD (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151649
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA HD
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/190999
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LALIGA 2K
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LALIGA 2K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151646
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LALIGA 4k
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LALIGA 4k
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151647
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LALIGA FHD
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LALIGA FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151645
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",MOVISTAR LIGA HD ALTERNATIVA
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",MOVISTAR LIGA HD ALTERNATIVA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242408
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[mozza]>LaLigaTV",ORANGE LIGA
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[02]>LaLigaTV",ORANGE LIGA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158913
-#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[mozza]>LaLigaTV",MOVISTAR  LALIGA 2 (Solo Eventos)
+#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[02]>LaLigaTV",MOVISTAR  LALIGA 2 (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151650
-#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA 2 FHD (Solo Eventos)
+#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA 2 FHD (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151651
-#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[mozza]>LaLigaTV",MOVISTAR LIGA 2 HD
+#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[02]>LaLigaTV",MOVISTAR LIGA 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151642
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[mozza]>LaLigaTV",MOVISTAR  LA LIGA 3 (Solo Eventos)
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[02]>LaLigaTV",MOVISTAR  LA LIGA 3 (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151652
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA 3 FULLHD (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151658
-#EXTINF:-1 tvg-id="M+ LALIGA TV 4" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="[mozza]>LaLigaTV",MOVISTAR LA LIGA 4 (Solo Eventos)
+#EXTINF:-1 tvg-id="M+ LALIGA TV 4" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="[02]>LaLigaTV",MOVISTAR LA LIGA 4 (Solo Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151653
-#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 1 FHD (OP1)
+#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 1 FHD (OP1)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390310
-#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION FHD
+#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158916
-#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION FHD (OP1)
+#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION FHD (OP1)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390306
-#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION FHD 1
+#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION FHD 1
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/240420
-#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION HD
+#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390307
-#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION SD
+#EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390308
-#EXTINF:-1 tvg-id="es.laligasmartm2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm2.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 2 HD
+#EXTINF:-1 tvg-id="es.laligasmartm2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm2.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390311
-#EXTINF:-1 tvg-id="es.laligasmartm2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm2.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 2 SD
+#EXTINF:-1 tvg-id="es.laligasmartm2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm2.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 2 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390312
-#EXTINF:-1 tvg-id="es.laligasmartm3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm3.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 3 FHD
+#EXTINF:-1 tvg-id="es.laligasmartm3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm3.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 3 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390322
-#EXTINF:-1 tvg-id="es.laligasmartm3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm3.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 3 HD
+#EXTINF:-1 tvg-id="es.laligasmartm3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm3.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 3 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390320
-#EXTINF:-1 tvg-id="es.laligasmartm3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm3.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 3 SD
+#EXTINF:-1 tvg-id="es.laligasmartm3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm3.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 3 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390321
-#EXTINF:-1 tvg-id="es.laligasmartm4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm4.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 4
+#EXTINF:-1 tvg-id="es.laligasmartm4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm4.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 4
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390319
-#EXTINF:-1 tvg-id="es.laligasmartm4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm4.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 4 SD
+#EXTINF:-1 tvg-id="es.laligasmartm4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm4.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 4 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390318
-#EXTINF:-1 tvg-id="es.laligasmartm5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm5.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 5
+#EXTINF:-1 tvg-id="es.laligasmartm5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm5.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 5
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390317
-#EXTINF:-1 tvg-id="es.laligasmartm5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm5.png" group-title="[mozza]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 5 SD
+#EXTINF:-1 tvg-id="es.laligasmartm5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm5.png" group-title="[02]>LaLigaTV Hypermotion",LALIGA TV HYPERMOTION 5 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390316
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",LIGA DE CAMPEONES 4K
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",LIGA DE CAMPEONES 4K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/377082
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+  LIGA CAMPEONES ALTERNATIVA
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+  LIGA CAMPEONES ALTERNATIVA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242405
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+  LIGA CAMPEONES FHD ALTERNATIVA
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+  LIGA CAMPEONES FHD ALTERNATIVA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242407
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+  LIGA CAMPEONES HD ALTERNATIVA
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+  LIGA CAMPEONES HD ALTERNATIVA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242406
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ Campeones FHD Orange
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ Campeones FHD Orange
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151665
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ Campeones UHD 2K
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ Campeones UHD 2K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151664
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES 2 HD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416120
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES 2 SD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES 2 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416119
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES EXTRA
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES EXTRA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416112
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416114
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD (ORANGE)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD (ORANGE)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416115
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD (SAT)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD (SAT)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416113
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD (x265)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD (x265)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416118
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD Extra (FIBRA)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD Extra (FIBRA)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416116
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD Extra1 (FIBRA)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES FHD Extra1 (FIBRA)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416117
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES HD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416111
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES HD (ORANGE)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES HD (ORANGE)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416110
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES SD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416107
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES SD (ORANGE)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES SD (ORANGE)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416109
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",M+ LIGA DE CAMPEONES SD EXTRA
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",M+ LIGA DE CAMPEONES SD EXTRA
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416108
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES FHD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151663
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES HD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151662
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES SD
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151714
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: ES: M. Liga de Campeones FHD (Fibra Multi-Comentaristas)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460925
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: ES: M. Liga de Campeones HD (Fibra Multi-Comentaristas)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: ES: M. Liga de Campeones HD (Fibra Multi-Comentaristas)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460924
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: ES: M. Liga de Campeones SD (Fibra Multi-Comentaristas)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: ES: M. Liga de Campeones SD (Fibra Multi-Comentaristas)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460923
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: UEFA: M. Liga de Campeones (Movil)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: UEFA: M. Liga de Campeones (Movil)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460919
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: UEFA: M. Liga de Campeones FHD (VIP)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: UEFA: M. Liga de Campeones FHD (VIP)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460922
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: UEFA: M. Liga de Campeones HD (VIP)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: UEFA: M. Liga de Campeones HD (VIP)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460921
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[mozza]>Liga de Campeones",SP: UEFA: M. Liga de Campeones SD (VIP)
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[02]>Liga de Campeones",SP: UEFA: M. Liga de Campeones SD (VIP)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460920
-#EXTINF:-1 tvg-id="es.mchampions2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions2.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA DE CAMPEONES 2  ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions2.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA DE CAMPEONES 2  ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151666
-#EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 2 FULLHD
+#EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 2 FULLHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151667
-#EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 3   ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 3   ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151668
-#EXTINF:-1 tvg-id="es.mchampions4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions4.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA DE CAMPEONES 4  ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions4.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA DE CAMPEONES 4  ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151669
-#EXTINF:-1 tvg-id="es.mchampions5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions5.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 5 ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions5.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 5 ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151670
-#EXTINF:-1 tvg-id="es.mchampions6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions6.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 6  ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions6.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 6  ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151671
-#EXTINF:-1 tvg-id="es.mchampions7" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions7.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 7 ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions7" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions7.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 7 ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151672
-#EXTINF:-1 tvg-id="es.mchampions8" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions8.png" group-title="[mozza]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 8 ( EVENTOS )
+#EXTINF:-1 tvg-id="es.mchampions8" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions8.png" group-title="[02]>Liga de Campeones",MOVISTAR LIGA CAMPEONES 8 ( EVENTOS )
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151673
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[mozza]>F1",DAZN F1 4K
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[02]>F1",DAZN F1 4K
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151713
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[mozza]>F1",DAZN F1 FHD
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[02]>F1",DAZN F1 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151704
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[mozza]>F1",DAZN F1 HD
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[02]>F1",DAZN F1 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/202655
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[mozza]>F1",M. FORMULA 1
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[02]>F1",M. FORMULA 1
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151694
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[mozza]>F1",M. FORMULA 1 FHD
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[02]>F1",M. FORMULA 1 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151696
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[mozza]>F1",MOVISTAR F1 HD
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[02]>F1",MOVISTAR F1 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151695
-#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[mozza]>Deportes",DAZN 1
+#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[02]>Deportes",DAZN 1
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/159068
-#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[mozza]>Deportes",DAZN 1 FHD
+#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[02]>Deportes",DAZN 1 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151705
-#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[mozza]>Deportes",DAZN 1 HD
+#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[02]>Deportes",DAZN 1 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/152089
-#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[mozza]>Deportes",DAZN 1 SD
+#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[02]>Deportes",DAZN 1 SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/159067
-#EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="[mozza]>Deportes",DAZN 2 FHD
+#EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="[02]>Deportes",DAZN 2 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151708
-#EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="[mozza]>Deportes",DAZN 2 HD
+#EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="[02]>Deportes",DAZN 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151707
-#EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="[mozza]>Deportes",DAZN SD 2
+#EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="[02]>Deportes",DAZN SD 2
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151706
-#EXTINF:-1 tvg-id="es.dazn3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn3.png" group-title="[mozza]>Deportes",DAZN 3 FHD
+#EXTINF:-1 tvg-id="es.dazn3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn3.png" group-title="[02]>Deportes",DAZN 3 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151710
-#EXTINF:-1 tvg-id="es.dazn3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn3.png" group-title="[mozza]>Deportes",DAZN 3 HD
+#EXTINF:-1 tvg-id="es.dazn3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn3.png" group-title="[02]>Deportes",DAZN 3 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151709
-#EXTINF:-1 tvg-id="es.dazn4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn4.png" group-title="[mozza]>Deportes",DAZN 4 FHD
+#EXTINF:-1 tvg-id="es.dazn4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn4.png" group-title="[02]>Deportes",DAZN 4 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151712
-#EXTINF:-1 tvg-id="es.dazn4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn4.png" group-title="[mozza]>Deportes",DAZN 4 HD
+#EXTINF:-1 tvg-id="es.dazn4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn4.png" group-title="[02]>Deportes",DAZN 4 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151711
-#EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="[mozza]>Deportes",EUROSPORT
+#EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="[02]>Deportes",EUROSPORT
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151677
-#EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="[mozza]>Deportes",EUROSPORT FULL HD
+#EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="[02]>Deportes",EUROSPORT FULL HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151675
-#EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="[mozza]>Deportes",EUROSPORT HD
+#EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="[02]>Deportes",EUROSPORT HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151676
-#EXTINF:-1 tvg-id="es.eurosport2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport2.png" group-title="[mozza]>Deportes",Eurosport  2
+#EXTINF:-1 tvg-id="es.eurosport2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport2.png" group-title="[02]>Deportes",Eurosport  2
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151674
-#EXTINF:-1 tvg-id="es.eurosport2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport2.png" group-title="[mozza]>Deportes",MOVISTAR  GOLF
+#EXTINF:-1 tvg-id="es.eurosport2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport2.png" group-title="[02]>Deportes",MOVISTAR  GOLF
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151678
-#EXTINF:-1 tvg-id="es.golplay" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.golplay.png" group-title="[mozza]>Deportes",GOL TV FHD
+#EXTINF:-1 tvg-id="es.golplay" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.golplay.png" group-title="[02]>Deportes",GOL TV FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151685
-#EXTINF:-1 tvg-id="es.vamos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.vamos.png" group-title="[mozza]>Deportes",VAMOS  FHD
+#EXTINF:-1 tvg-id="es.vamos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.vamos.png" group-title="[02]>Deportes",VAMOS  FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151639
-#EXTINF:-1 tvg-id="es.vamos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.vamos.png" group-title="[mozza]>Deportes",VAMOS HD
+#EXTINF:-1 tvg-id="es.vamos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.vamos.png" group-title="[02]>Deportes",VAMOS HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151640
-#EXTINF:-1 tvg-id="es.vamos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.vamos.png" group-title="[mozza]>Deportes",VAMOS SD
+#EXTINF:-1 tvg-id="es.vamos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.vamos.png" group-title="[02]>Deportes",VAMOS SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151641
-#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCFUT.png" group-title="[mozza]>Deportes",Movistar CRACKS
+#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCFUT.png" group-title="[02]>Deportes",Movistar CRACKS
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178115
-#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCFUT.png" group-title="[mozza]>Deportes",Movistar CRACKS FHD
+#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCFUT.png" group-title="[02]>Deportes",Movistar CRACKS FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178117
-#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCFUT.png" group-title="[mozza]>Deportes",Movistar CRACKS HD
+#EXTINF:-1 tvg-id="M+ Cracks" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCFUT.png" group-title="[02]>Deportes",Movistar CRACKS HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178116
-#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[mozza]>Deportes",MOVISTAR  DEPORTE
+#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[02]>Deportes",MOVISTAR  DEPORTE
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151680
-#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 1
+#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 1
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151687
-#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 1 FULLHD
+#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 1 FULLHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151686
-#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE FHD
+#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[02]>Deportes",MOVISTAR DEPORTE FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151682
-#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE HD
+#EXTINF:-1 tvg-id="es.mdeportes1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes1.png" group-title="[02]>Deportes",MOVISTAR DEPORTE HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151681
-#EXTINF:-1 tvg-id="es.mdeportes2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes2.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 2 (Eventos)
+#EXTINF:-1 tvg-id="es.mdeportes2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes2.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 2 (Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151688
-#EXTINF:-1 tvg-id="es.mdeportes3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes3.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 3 (Eventos)
+#EXTINF:-1 tvg-id="es.mdeportes3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes3.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 3 (Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151689
-#EXTINF:-1 tvg-id="es.mdeportes4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes4.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 4 (Eventos)
+#EXTINF:-1 tvg-id="es.mdeportes4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes4.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 4 (Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151690
-#EXTINF:-1 tvg-id="es.mdeportes5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes5.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 5 (Eventos)
+#EXTINF:-1 tvg-id="es.mdeportes5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes5.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 5 (Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151691
-#EXTINF:-1 tvg-id="es.mdeportes6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes6.png" group-title="[mozza]>Deportes",MOVISTAR DEPORTE 6 (Eventos)
+#EXTINF:-1 tvg-id="es.mdeportes6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdeportes6.png" group-title="[02]>Deportes",MOVISTAR DEPORTE 6 (Eventos)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151692
-#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="[mozza]>Deportes",ELLAS #V HD
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="[02]>Deportes",ELLAS #V HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219265
-#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="[mozza]>Deportes",ELLAS #V SD
+#EXTINF:-1 tvg-id="M+ Ellas V" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" group-title="[02]>Deportes",ELLAS #V SD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219266
-#EXTINF:-1 tvg-id="es.mgolf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mgolf.png" group-title="[mozza]>Deportes",MOVISTAR GOLF FHD
+#EXTINF:-1 tvg-id="es.mgolf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mgolf.png" group-title="[02]>Deportes",MOVISTAR GOLF FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151697
-#EXTINF:-1 tvg-id="es.mgolf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mgolf.png" group-title="[mozza]>Deportes",MOVISTAR GOLF HD
+#EXTINF:-1 tvg-id="es.mgolf" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mgolf.png" group-title="[02]>Deportes",MOVISTAR GOLF HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151679
-#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[mozza]>Deportes",TELEDEPORTE
+#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[02]>Deportes",TELEDEPORTE
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151698
-#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[mozza]>Deportes",TELEDEPORTE  HD
+#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[02]>Deportes",TELEDEPORTE  HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151699
-#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[mozza]>Deportes",TELEDEPORTE FHD
+#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[02]>Deportes",TELEDEPORTE FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151700
-#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 1
+#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 1
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370430
-#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 1 FHD VIP
+#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 1 FHD VIP
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370428
-#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 1 HD
+#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 1 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370429
-#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[mozza]>Portugal Eleven",SP: UEFA: Eleven Sports 1 (PT)
+#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[02]>Portugal Eleven",SP: UEFA: Eleven Sports 1 (PT)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372224
-#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 2 FHD
+#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 2 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370431
-#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 2 FHD VIP
+#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 2 FHD VIP
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370432
-#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 2 HD
+#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 2 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370433
-#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[mozza]>Portugal Eleven",SP: UEFA: Eleven Sports 2 (PT)
+#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[02]>Portugal Eleven",SP: UEFA: Eleven Sports 2 (PT)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372225
-#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 3
+#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 3
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370436
-#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 3 FHD VIP
+#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 3 FHD VIP
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370434
-#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 3 HD
+#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 3 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370435
-#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[mozza]>Portugal Eleven",SP: UEFA: Eleven Sports 3 (PT)
+#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[02]>Portugal Eleven",SP: UEFA: Eleven Sports 3 (PT)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372226
-#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORTS 4
+#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORTS 4
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370438
-#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORTS 4 FHD
+#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORTS 4 FHD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370437
-#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[mozza]>Portugal Eleven",SP: UEFA: Eleven Sports 4 (PT)
+#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[02]>Portugal Eleven",SP: UEFA: Eleven Sports 4 (PT)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372227
-#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 5 FHD VIP
+#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 5 FHD VIP
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370439
-#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 5 HD
+#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 5 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370440
-#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[mozza]>Portugal Eleven",SP: UEFA: Eleven Sports 5 (PT)
+#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[02]>Portugal Eleven",SP: UEFA: Eleven Sports 5 (PT)
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372228
-#EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 6
+#EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 6
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370443
-#EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 6 FHD VIP
+#EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 6 FHD VIP
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370441
-#EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[mozza]>Portugal Eleven",PT: ELEVEN SPORT 6 HD
+#EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[02]>Portugal Eleven",PT: ELEVEN SPORT 6 HD
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370442
