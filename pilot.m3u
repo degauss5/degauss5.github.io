@@ -1,41 +1,41 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/EPG_HL/epg/wictvthrones_EPG_HL.xml.gz"
-#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[E02]>TDT",La 1 [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033
 #EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[E02]>TDT",La 1 [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178033
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[E02]>TDT",La 1 [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178032
 #EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="[E02]>TDT",La 1 [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178031
-#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[E02]>TDT",La 2 [FHD]
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[E02]>TDT",La 2 [FHD 50]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178036
-#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[E02]>TDT",La 2 [HD]
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[E02]>TDT",La 2 [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178035
 #EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="[E02]>TDT",La 2 [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178034
-#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[E02]>TDT",Antena 3 [FHD]
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[E02]>TDT",Antena 3 [FHD 50]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178039
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[E02]>TDT",Antena 3 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178038
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="[E02]>TDT",Antena 3 [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178037
-#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[E02]>TDT",Cuatro [FHD]
+#EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[E02]>TDT",Cuatro [FHD 50]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178042
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[E02]>TDT",Cuatro [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178041
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="[E02]>TDT",Cuatro [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178040
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [FHD]
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181913
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178044
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178043
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [FHD]
+#EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="[E02]>TDT",La Sexta [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178047
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [HD]
+#EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="[E02]>TDT",La Sexta [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178046
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [SD]
+#EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="[E02]>TDT",La Sexta [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178045
-#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="[E02]>TDT",Telecinco [?]
+#EXTINF:-1 tvg-id="24 Horas" tvg-name="" tvg-logo="https://whatthelogo.com/storage/logos/tve-24h-181476.jpg" group-title="[E02]>TDT",24 Horas [FHD 50]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178049
 #EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="[E02]>Cine y series",AMC [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178144
@@ -97,10 +97,10 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178129
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178128
 #EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="[E02]>Cine y series",Cosmo [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178127
-#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[E02]>Cine y series",Dark [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178220
 #EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[E02]>Cine y series",Dark [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178221
+#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="[E02]>Cine y series",Dark [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178220
 #EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="[E02]>Cine y series",Divinity [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178054
 #EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="[E02]>Cine y series",Divinity [SD]
@@ -189,18 +189,18 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178209
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178208
 #EXTINF:-1 tvg-id="Blaze" tvg-name="" tvg-logo="https://i0.wp.com/www.audiovisual451.com/wp-content/uploads/Blaze-h.jpg?fit=300%2C236&ssl=1" group-title="[E02]>Lifestyle",Blaze [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178207
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[E02]>Lifestyle",Canal cocina [4K]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372098
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[E02]>Lifestyle",Canal cocina [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178056
 #EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[E02]>Lifestyle",Canal cocina [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178055
-#EXTINF:-1 tvg-id="Canal Cocina" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png" group-title="[E02]>Lifestyle",Canal cocina [4K]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372098
+#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[E02]>Lifestyle",Decasa [4K]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372099
 #EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[E02]>Lifestyle",Decasa [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178058
 #EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[E02]>Lifestyle",Decasa [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178057
-#EXTINF:-1 tvg-id="Canal Decasa" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png" group-title="[E02]>Lifestyle",Decasa [4K]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372099
 #EXTINF:-1 tvg-id="es.dkiss" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dkiss.png" group-title="[E02]>Lifestyle",DKISS [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178060
 #EXTINF:-1 tvg-id="es.dkiss" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dkiss.png" group-title="[E02]>Lifestyle",DKISS [SD]
@@ -273,28 +273,28 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178191
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178189
 #EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178072
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178071
-#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [SD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178070
 #EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390153
 #EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178071
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390152
 #EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178070
+#EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="[E02]>M+ Cine y Series",M+ Originales [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390151
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178067
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [FHD 25]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178081
 #EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390156
 #EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178067
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390155
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [SD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390154
-#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178081
 #EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178080
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390154
 #EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="[E02]>M+ Cine y Series",M+ Plus [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178079
 #EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="[E02]>M+ Cine y Series",M+ Series [FHD]
@@ -305,14 +305,14 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178095
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178094
 #EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178099
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178098
-#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [SD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178097
 #EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390162
 #EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178098
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390161
+#EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178097
 #EXTINF:-1 tvg-id="es.msuspense" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.msuspense.png" group-title="[E02]>M+ Cine y Series",M+ Suspense [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390160
 #EXTINF:-1 tvg-id="es.buenviaje" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.buenviaje.png" group-title="[E02]>Documentales",Â¡Buen Viaje! [SD]
@@ -335,12 +335,12 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390165
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390164
 #EXTINF:-1 tvg-id="es.mdocumentales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mdocumentales.png" group-title="[E02]>Documentales",M+ Documentales [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390163
+#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[E02]>Documentales",Nat Geo [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178182
 #EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[E02]>Documentales",Nat Geo [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178184
 #EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[E02]>Documentales",Nat Geo [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178183
-#EXTINF:-1 tvg-id="es.natgeo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeo.png" group-title="[E02]>Documentales",Nat Geo [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178182
 #EXTINF:-1 tvg-id="es.natgeowild" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeowild.png" group-title="[E02]>Documentales",Nat Geo Wild [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178185
 #EXTINF:-1 tvg-id="es.natgeowild" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.natgeowild.png" group-title="[E02]>Documentales",Nat Geo Wild [HD]
@@ -355,28 +355,28 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178188
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178187
 #EXTINF:-1 tvg-id="es.odisea" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.odisea.png" group-title="[E02]>Documentales",Odisea [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/178186
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416104
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [?]
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416105
-#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [?]
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242410
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [FHD 50]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416104
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228844
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228845
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="[E02]>LaLigaTV",DAZN LaLiga [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228846
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [FHD]
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228848
 #EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228849
 #EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228851
+#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/243632
 #EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/228850
-#EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="[E02]>LaLigaTV",DAZN LaLiga 2 [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/243632
 #EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[E02]>LaLigaTV",LaLigaTV BAR [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/219264
 #EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[E02]>LaLigaTV",LaLigaTV BAR [FHD]
@@ -385,45 +385,45 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/155934
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/155933
 #EXTINF:-1 tvg-id="es.laligabar1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligabar1.png" group-title="[E02]>LaLigaTV",LaLigaTV BAR [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/155932
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242409
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158915
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158918
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158919
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158914
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158917
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [SD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181901
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151648
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151649
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/190999
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158913
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [2K]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151646
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [4K]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151647
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [FHD]
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [FHD 25]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242409
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [FHD 25]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151649
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151645
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158918
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158914
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158917
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/190999
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242408
-#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158913
-#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 2 [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151650
-#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 2 [FHD]
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/158919
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/181901
+#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 2 [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151651
 #EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 2 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151642
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 3 [?]
+#EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 2 [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151650
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 3 [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151652
-#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 3 [FHD]
+#EXTINF:-1 tvg-id="M+ LALIGA TV 3" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 3 [FHD 25]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151658
 #EXTINF:-1 tvg-id="M+ LALIGA TV 4" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="[E02]>LaLigaTV",M+ LaLigaTV 4 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151653
@@ -457,24 +457,20 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390318
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390317
 #EXTINF:-1 tvg-id="es.laligasmartm5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmartm5.png" group-title="[E02]>LaLigaTV Hypermotion",LaLigaTV Hypermotion 5 [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/390316
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [4K]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/377082
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242405
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242407
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242406
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151665
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [2K]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151664
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416120
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416119
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416112
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460919
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [2K]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151664
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [4K]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/377082
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242407
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151665
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416114
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
@@ -487,42 +483,46 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416118
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416116
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416117
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151663
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460925
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460922
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/242406
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416120
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416111
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416110
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151662
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460924
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460921
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416119
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416107
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416109
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/416108
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151663
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151662
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151714
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460925
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460924
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460923
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460919
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460922
-#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460921
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones [SD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/460920
 #EXTINF:-1 tvg-id="es.mchampions2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions2.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 2 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151666
-#EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 3 [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151667
 #EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 3 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151668
+#EXTINF:-1 tvg-id="es.mchampions3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions3.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 3 [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151667
 #EXTINF:-1 tvg-id="es.mchampions4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions4.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 4 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151669
 #EXTINF:-1 tvg-id="es.mchampions5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions5.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 5 [?]
@@ -533,16 +533,16 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151671
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151672
 #EXTINF:-1 tvg-id="es.mchampions8" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions8.png" group-title="[E02]>Liga de Campeones",M+ Liga de Campeones 8 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151673
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151694
 #EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [4K]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151713
 #EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151704
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/202655
-#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151694
 #EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151696
+#EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/202655
 #EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="[E02]>F1",DAZN F1 [SP] [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151695
 #EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="[E02]>Deportes",DAZN 1 [?]
@@ -621,46 +621,46 @@ http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151697
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151679
 #EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[E02]>Deportes",Teledeporte [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151698
-#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[E02]>Deportes",Teledeporte [HD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151699
 #EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[E02]>Deportes",Teledeporte [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151700
+#EXTINF:-1 tvg-id="es.teledeporte" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.teledeporte.png" group-title="[E02]>Deportes",Teledeporte [HD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/151699
 #EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[E02]>Portugal Eleven",Eleven Sports 1 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370430
+#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[E02]>Portugal Eleven",Eleven Sports 1 [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372224
 #EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[E02]>Portugal Eleven",Eleven Sports 1 [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370428
 #EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[E02]>Portugal Eleven",Eleven Sports 1 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370429
-#EXTINF:-1 tvg-id="pt.elevens1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens1.png" group-title="[E02]>Portugal Eleven",Eleven Sports 1 [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372224
+#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[E02]>Portugal Eleven",Eleven Sports 2 [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372225
 #EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[E02]>Portugal Eleven",Eleven Sports 2 [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370431
 #EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[E02]>Portugal Eleven",Eleven Sports 2 [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370432
 #EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[E02]>Portugal Eleven",Eleven Sports 2 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370433
-#EXTINF:-1 tvg-id="pt.elevens2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens2.png" group-title="[E02]>Portugal Eleven",Eleven Sports 2 [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372225
 #EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[E02]>Portugal Eleven",Eleven Sports 3 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370436
+#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[E02]>Portugal Eleven",Eleven Sports 3 [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372226
 #EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[E02]>Portugal Eleven",Eleven Sports 3 [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370434
 #EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[E02]>Portugal Eleven",Eleven Sports 3 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370435
-#EXTINF:-1 tvg-id="pt.elevens3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens3.png" group-title="[E02]>Portugal Eleven",Eleven Sports 3 [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372226
 #EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[E02]>Portugal Eleven",Eleven Sports 4 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370438
-#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[E02]>Portugal Eleven",Eleven Sports 4 [FHD]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370437
 #EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[E02]>Portugal Eleven",Eleven Sports 4 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372227
+#EXTINF:-1 tvg-id="pt.elevens4" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens4.png" group-title="[E02]>Portugal Eleven",Eleven Sports 4 [FHD]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370437
+#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[E02]>Portugal Eleven",Eleven Sports 5 [?]
+http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372228
 #EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[E02]>Portugal Eleven",Eleven Sports 5 [FHD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370439
 #EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[E02]>Portugal Eleven",Eleven Sports 5 [HD]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370440
-#EXTINF:-1 tvg-id="pt.elevens5" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens5.png" group-title="[E02]>Portugal Eleven",Eleven Sports 5 [?]
-http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/372228
 #EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[E02]>Portugal Eleven",Eleven Sports 6 [?]
 http://mozzatv.com.es:2082/manuvi/zu6E98UFenz/370443
 #EXTINF:-1 tvg-id="pt.elevens6" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/pt.elevens6.png" group-title="[E02]>Portugal Eleven",Eleven Sports 6 [FHD]
