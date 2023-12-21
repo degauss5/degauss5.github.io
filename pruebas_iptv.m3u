@@ -1,3 +1,733 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TVE 
 http://zonamovie.live:8080/Jhontv/Jhon20231@/408956
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_TVE-HD.svg/1024px-Logo_TVE-HD.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TVE INTERNACIONAL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408957
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="▶️ | TV ESPAÑA",LA 1 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408958
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png" group-title="▶️ | TV ESPAÑA",LA 1 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408959
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1c/TVE2_logo.png" group-title="▶️ | TV ESPAÑA",ESP | LA 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408960
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="▶️ | TV ESPAÑA",ESP | ANTENA 3 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408961
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Antena3.es.png" group-title="▶️ | TV ESPAÑA",ESP | ANTENA 3 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408962
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cuatro_2012.png" group-title="▶️ | TV ESPAÑA",ESP | CUATRO (X) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408963
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TELECINCO HD (A) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TELECINCO HD (B) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408965
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telecinco.svg/1200px-Telecinco.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TELECINCO HD (C) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/2048px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="▶️ | TV ESPAÑA",ESP | FDF 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408968
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Neox.es.png" group-title="▶️ | TV ESPAÑA",ESP | NEOX 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Nova.svg/2560px-Nova.svg.png" group-title="▶️ | TV ESPAÑA",ESP | NOVA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408970
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/1200px-Atreseries_2020_logo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | A3SERIES HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408971
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | M SERIES XTRA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408982
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | SERIESMANIA HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408983
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/DisneyXD.es.png" group-title="▶️ | TV ESPAÑA",ESP | DISNEY + 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408984
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Nickelodeon.es.png" group-title="▶️ | TV ESPAÑA",ESP | NICKELODEON  HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408985
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/AXNWhite.es.png" group-title="▶️ | TV ESPAÑA",ESP | AXN WHITE HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408986
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png" group-title="▶️ | TV ESPAÑA",ESP | CALLE 13 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408987
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="▶️ | TV ESPAÑA",ESP | SYFY HD(A) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Cosmo.es.png" group-title="▶️ | TV ESPAÑA",ESP | COSMO 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408989
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/ParamountChannel.es.png" group-title="▶️ | TV ESPAÑA",ESP | PARAMOUNT 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408990
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/NatGeoWild.es.png" group-title="▶️ | TV ESPAÑA",ESP | NAT GEO WILD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Historia.es.png" group-title="▶️ | TV ESPAÑA",ESP | HISTORIA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/04/Discovery-Logo.png" group-title="▶️ | TV ESPAÑA",ESP | DISCOVERY CHANNEL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408993
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Mezzo.es.png" group-title="▶️ | TV ESPAÑA",ESP | MEZZO LIVE 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/BeMad.es.png" group-title="▶️ | TV ESPAÑA",ESP | BE MAD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Telemadrid.svg/1200px-Telemadrid.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TELEMADRID 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MEGA.svg/2560px-MEGA.svg.png" group-title="▶️ | TV ESPAÑA",ESP | MEGA HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408998
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Divinity_%282012%29.svg/1024px-Divinity_%282012%29.svg.png" group-title="▶️ | TV ESPAÑA",ESP | DIVINITY 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="▶️ | TV ESPAÑA",ESP | FOX HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/DisneyChannelEMEA.svg/langes-800px-DisneyChannelEMEA.svg.png" group-title="▶️ | TV ESPAÑA",ESP | DISNEY CHANNEL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FE4voNt8CyU/YTB5OjwRRlI/AAAAAAAAAps/e3GEB4pu1WIUOe7TBsbkvF1cP-1nBcM0gCLcBGAsYHQ/s1280/tcm%2Btvlaint.png" group-title="▶️ | TV ESPAÑA",ESP | TCM HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | NAT GEO HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/Boing.es.png" group-title="▶️ | TV ESPAÑA",ESP | BOING 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.epg.best/es/CanalPanda.es.png" group-title="▶️ | TV ESPAÑA",ESP | CANAL PANDA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/2560px-Nick_Jr._logo_2009.svg.png" group-title="▶️ | TV ESPAÑA",ESP | NICK JR 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409008
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Clan_TVE_logo.svg/2560px-Clan_TVE_logo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | CLAN TVE HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Blaze_-_2016_logo.svg/2560px-Blaze_-_2016_logo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | BLAZE 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409010
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TELEDEPORTE 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409011
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/ScECkaWu_2omPYZYhNXBQbSdhWD6LyQgPQFIxNeSf30UnYiqWssiWJrbll1EwPNI0gU" group-title="▶️ | TV ESPAÑA",ESP | ONETORO 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.formulatv.com/images/articulos/55000/n55629_d8fe9d8dd9-q.jpg" group-title="▶️ | TV ESPAÑA",ESP | CANAL ODISEA HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Caza-pesca_m%2B.png/800px-Caza-pesca_m%2B.png" group-title="▶️ | TV ESPAÑA",ESP | CAZYPESCA HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Decasa.png" group-title="▶️ | TV ESPAÑA",ESP | DECASA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1024px-DMAX_-_Logo_2016.svg.png" group-title="▶️ | TV ESPAÑA",ESP | DMAX 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409016
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1024px-Eurosport_Logo_2015.svg.png" group-title="▶️ | TV ESPAÑA",ESP | EUROSPORT 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/SundanceTV_2014.svg/1024px-SundanceTV_2014.svg.png" group-title="▶️ | TV ESPAÑA",ESP | SUNDANCE 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="▶️ | TV ESPAÑA",ESP | TNT 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="▶️ | TV ESPAÑA",ESP | AMC 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/AXN_Logo.PNG" group-title="▶️ | TV ESPAÑA",ESP | AXN 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000logos.net/wp-content/uploads/2020/09/Logo-Comedy-Central.jpg" group-title="▶️ | TV ESPAÑA",ESP | COMEDY CENTRAL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409022
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/2560px-Natgeologo.svg.png" group-title="▶️ | TV ESPAÑA",ESP | NATIONAL GEOGRAPHIC 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="▶️ | TV ESPAÑA",ESP | SYFY HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="▶️ | TV ESPAÑA",ESP | TCM HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://127.0.0.1/" group-title="▶️ | TV ESPAÑA",24H 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409026
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ipmark.com/wp-content/uploads/2016/10/DARK-Canal-Televisi%C3%B3n-Terror.png" group-title="▶️ | TV ESPAÑA",ESP | DARK 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/Y9je-1L9KIW0EWsb3Puk_03a4FBZfM2rP_fHXpiiTz7U1nmrwLQ9ATpCYFwSPRO9FQ" group-title="▶️ | TV ESPAÑA",TOROLE TV 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409028
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Eurosport_Logo_2015.svg/1024px-Eurosport_Logo_2015.svg.png" group-title="▶️ | TV ESPAÑA",EUROSPORT 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Andaluc%C3%ADa_TV_2018_logo.svg/1200px-Andaluc%C3%ADa_TV_2018_logo.svg.png" group-title="▶️ | TV ESPAÑA",Canal Sur Andalucía 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/2751840294/67013d8745e1704196024823792b7b14_400x400.png" group-title="▶️ | TV ESPAÑA",ESP l XTRM HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/AMC_logo_2016.svg/1280px-AMC_logo_2016.svg.png" group-title="▶️ | TV ESPAÑA",ESP | AMC CRIME 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="▶️ | TV ESPAÑA",M+ GOYA HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/409034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s88735_ll_h3_aa.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | ESPN - 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436574
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | ESPN 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436575
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://127.0.0.1/" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | ESPN 1 - 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436577
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/2858c50b563b886193b4308053812768.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | ESPN EXTRA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/0dd02d91bac39ed836a5debc4d741419.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | FOX SPORTS 1 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436583
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/790a6f29979e96aff1e39ae27db0965a.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | FOX SPORTS 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/e9c0003665966b3795a1f2feb44c4103.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | FOX SPORTS 3 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436585
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/3dfae62f52e3d5df95f02b7200dd1871.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | GOL TV 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436586
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/8309648923bf090f5ed7eb3c96b9ab9b.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | GOLPERU 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436587
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/2f6503a90a37563bde0004f15329aea6.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | MOVISTAR DEPORTES 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436588
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/3c867ef21c97a15497fec8cde8febeb9.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | TYC SPORTS 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/436591
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/01/logo-F1.png" group-title="▶️ | TENNIS - F1  - CICLISMO",F1 | CANAL+ 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437294
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="▶️ | TENNIS - F1  - CICLISMO",F1 | DAZN 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437295
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="▶️ | TENNIS - F1  - CICLISMO",F1 | DAZN HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437296
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="▶️ | TENNIS - F1  - CICLISMO",F1 | FOX SPORTS PREMIUM 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437298
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="▶️ | TENNIS - F1  - CICLISMO",F1 | MOVISTAR F1 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437299
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="▶️ | TENNIS - F1  - CICLISMO",f1 | MOVISTAR FORMULA 1 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437300
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/29c8e5e47e01cf8dfcdd47198bdf747d.png" group-title="▶️ | TENNIS - F1  - CICLISMO",F1 | Sky Sports F1 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/437301
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://daleplaypro.com:8080/images/ab64a280d841f1a5f44e470950efbe72.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4k | A&E 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://daleplaypro.com:8080/images/7fa89b7c93ba1f53d458ba20711d4f66.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | ANIMAL PLANET 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449491
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://daleplaypro.com:8080/images/7fe0178703327ca51c6d10e1bbe327fd.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | AXN 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449493
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/f66418ac91fbb00787d7a54c0ec553fc.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | CARACOL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/9b66b3d0d485aa18fc5d0bff711d3680.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | CARTOON NETWORK 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449497
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/e5693c5822333d2e7e3e1123a721f3ae.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | CINECANAL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449499
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/e2230b853516e7b05d79744fbd4c9c13.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | CINEMAX 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449500
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/c15379468ddd344f41990890d9c0c3d0.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DHE 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449501
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/a6c118590d6a858d1f40ff2c60426697.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISCOVERY 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449502
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logodownload.org/wp-content/uploads/2020/06/discovery-home-and-health-logo.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISCOVERY H&H 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449503
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/e1abff7cfbdd9135b1fa98cc85ac8576.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISCOVERY KIDS 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/b29eed44276144e4e8103a661f9a78b7.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISCOVERY THEATER 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449505
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/cabdb9991ee652b3cc71d3206a1c778b.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISCOVERY WORLD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449506
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/e2285c1a303c2c89fb2da1a63a83e596.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISNEY 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449508
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://api.rockettv.me/img/thumbnail.php?w=240&t=channel&id=344" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | E! 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449509
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/f5f96eefd0fce52b3f9fb0ff80e1c90c.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | EL GOURMET 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449510
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/7332f432b318ebf1ffdbf69efe5c8912.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | FX 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449511
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/285e19f20beded7d215102b49d5c09a0.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | GOLDEN 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/5afe0031ba93a4067226c00969e11537.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | HBO 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449513
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/856b803b9f1a9e2ed5921d7ef034f1e1.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | HBO FAMILY 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449515
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/cbb3991a179afe1cfac36135a9dea3ca.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4k | HBO POP 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449516
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/282aaf28e447683734b1974de10c2362.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | HBO XTREME 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449517
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/0809947c105171d9cc88ba817d9b555c.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | HISTORY 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449518
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/d92cf3c8915f1de90fa60417a9b5dec7.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | DISCOVERY ID 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449520
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/41bba2c5e162140663c7856df49cf44c.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | LA RED 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449522
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/24e9bb5923c89f7c9d48dd6ca386346f.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | LAS ESTRELLAS 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449523
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/9fc39f15768327e25bfa8ae1f48a0fb1.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | LATINA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449524
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/b7cec13b8a4bc941eaf01a2c1edcbfa2.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | MEGA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449525
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/19c83f83a3464902f6f4c8b3cc9c0979.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | RCN 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449527
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/ebd9629fc3ae5e9f6611e2ee05a31cef.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | SPACE 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449529
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/8a030c3b4a412a946aa27139bbd4a3be.jpg" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | STAR CHANNEL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449530
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/61492ddb9c6fb371d7f786c84ee588d0.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | STUDIO UNIVERSAL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449531
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/77f959f119f4fb2321e9ce801e2f5163.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | TNT 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449533
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/8c7dd922ad47494fc02c388e12c00eac.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | TNT SERIES 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449534
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://zonamovie.live:8008/images/5cab80493d8e1c9cc5c30805b3809d48.png" group-title="⭐ | 4K PREMIUM (BUEN INTERNET)",4K | WARNER CHANNEL 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/449537
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png" group-title="⭐ | MOTOGP",ES: MOVISTAR MOTO GP 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/536487
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png" group-title="⭐ | MOTOGP",MOTOGP | CANAL+ MOTOGP HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/536488
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png" group-title="⭐ | MOTOGP",MOTOGP | CANAL+ MOTOGP HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/536489
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn-icons-png.flaticon.com/512/630/630617.png" group-title="⭐ | MOTOGP",MOTOGP | SKY SPORT MOTOGP 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/536490
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Cine_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Cine_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : CINE M+ SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544178
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/1024px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : SERIES M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544183
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Accion M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544186
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Accion M+ SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544189
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Comedia M+ SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544190
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Comedia M+HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544191
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Comedia_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Comedia_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Comedia M+FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Drama M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544193
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Drama_por_Movistar_Plus%2B_2023_Logo.svg/1024px-Drama_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | M+ TAQUILLA CINE",ES : Drama M+FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544195
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="▶️ | DAZN F1",ES: DAZN FORMULA #1 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544213
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="▶️ | DAZN F1",ES: DAZN FORMULA #2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544214
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="▶️ | DAZN F1",DAZN FORMULA #3 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="▶️ | DAZN F1",DAZN FORMULA #4 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544219
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="▶️ | DAZN F1",DAZN FORMULA #5 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544220
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="▶️ | DAZN F1",DAZN FORMULA #6 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544221
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 1 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544240
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_84_b_85_c000000_0_0_01.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 1 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544241
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 2 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544243
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/1_0_19_7a_b_85_c00000_0_0_01.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 2 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440,264&ssl=1" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 3 FHD (H265) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544246
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440,264&ssl=1" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 3 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440,264&ssl=1" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 3 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544248
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8387zr1617352854.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 4 FHD (H265) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8387zr1617352854.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 4 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544250
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/8387zr1617352854.png" group-title="⚽ DAZN PREMIUM",ES: MOVISTAR DAZN 4 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544251
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",D-ESP | DEPORTES M+ 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544802
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Golf_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Golf_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="⚽ M+ DEPORTES",D-ESP | GOLF M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544803
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Vamos_por_Movistar_Plus%2B_2023_Logo.svg/1200px-Vamos_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="⚽ M+ DEPORTES",D-ESP | VAMOS M+ HD* 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544804
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",DEPORTES M+ 1 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544805
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",DEPORTES M+ 1 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544806
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",DEPORTES M+2 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544807
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",DEPORTES M+ 5 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544808
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",D-ESP | DEPORTES M+ 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544809
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" group-title="⚽ M+ DEPORTES",D-ESP | DAZN F1 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544810
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",DEPORTES M+ 3 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544811
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Deportes_por_Movistar_Plus%2B_2022_logo.svg/1024px-Deportes_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="⚽ M+ DEPORTES",DEPORTES M+ 4 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544812
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="⚽ M+ LIGA HYPERMOTION",LIGA HYPERMOTION FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/549108
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="⚽ M+ LIGA HYPERMOTION",LIGA HYPERMOTION M2 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/549109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="⚽ M+ LIGA HYPERMOTION",LIGA HYPERMOTION M3 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/549110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/LaLiga_Hypermotion_2023_Vertical_Logo.svg/2335px-LaLiga_Hypermotion_2023_Vertical_Logo.svg.png" group-title="⚽ M+ LIGA HYPERMOTION",LIGA HYPERMOTION 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/549111
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Win_Sports+_logo.svg/1200px-Win_Sports+_logo.svg.png" group-title="▶️ | 4K DEPORTES (BUEN INTERNET)",4K | TNT SPORTS 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560985
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/XzLdyFf/laliga.png" group-title="⚽ Dazn La Liga",REPLAYS LA LIGA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560988
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="⚽ Dazn La Liga",DAZN LA LIGA 2 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560989
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="⚽ Dazn La Liga",DAZN LA LIGA  FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560990
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ Dazn La Liga",LA LIGA TV M+* HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ Dazn La Liga",LA LIGA TV M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560992
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="⚽ Dazn La Liga",DAZN LA LIGA** HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/DggPHcM/La-Liga-EA.jpg" group-title="⚽ Dazn La Liga",LA LIGA TV M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" group-title="⚽ Dazn La Liga",DAZN LA LIGA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS2.png" group-title="▶️ | DEPORTES PREMIUM",LALIGA TV HYPERMOTION 1 ESPAÑA FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS3.png" group-title="▶️ | DEPORTES PREMIUM",LALIGA TV HYPERMOTION 3 ESPAÑA FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGS.png" group-title="▶️ | DEPORTES PREMIUM",LALIGA TV HYPERMOTION 2 ESPAÑA FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG1.png" group-title="⚽ Movistar + La Liga",LA LIGA TV 2 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565877
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG2.png" group-title="⚽ Movistar + La Liga",LA LIGA TV 3 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565878
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG3.png" group-title="⚽ Movistar + La Liga",LA LIGA TV 4 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565879
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG4.png" group-title="⚽ Movistar + La Liga",LA LIGA TV 5 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565880
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG5.png" group-title="⚽ Movistar + La Liga",LA LIGA TV 6 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565881
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIG6.png" group-title="⚽ Movistar + La Liga",LA LIGA TV 7 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565882
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="⚽ Movistar + La Liga",LA LIGA TV por M+ 1 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565883
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MLIGA.png" group-title="⚽ Movistar + La Liga",LA LIGA TV por M+ 1 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565884
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565888
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES  por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565889
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP9.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 10 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565890
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP1.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 2 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565894
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP2.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 3 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565895
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP3.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 4 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565896
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP4.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 5 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565897
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP5.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 6 por M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565898
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP6.png" group-title="⚽Liga De Campeones",LIGA DE CAMPEONES 7 por M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565899
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/1950px-Logo_TVE-1.svg.png" group-title="▶️ | ESPAÑA TDT",ES: La 1 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571964
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s91206_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: La 2 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571966
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s91206_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: La 2 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571967
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s91176_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: Antena 3 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571969
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s91199_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: Cuatro FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571972
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s64648_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: Cuatro SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571973
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: Telecinco FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571974
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s91224_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: Telecinco HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571975
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="▶️ | ESPAÑA TDT",ES: La Sexta FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571977
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s97481_ll_h3_ab.png" group-title="▶️ | ESPAÑA TDT",ES: La Sexta HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571978
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="▶️ | ESPAÑA TDT",ES: FDF FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Factor%C3%ADa_de_Ficci%C3%B3n.svg/1200px-Factor%C3%ADa_de_Ficci%C3%B3n.svg.png" group-title="▶️ | ESPAÑA TDT",ES: FDF HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571982
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="▶️ | ESPAÑA TDT",ES: Neox 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571984
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Neox.svg/2560px-Neox.svg.png" group-title="▶️ | ESPAÑA TDT",ES: Neox HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571985
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="▶️ | ESPAÑA TDT",ES: Energy SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571987
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://4.bp.blogspot.com/-FeitpcROtPU/TwIEowk2izI/AAAAAAAAATI/g0HN4up-TH0/s1600/canal-energy.png" group-title="▶️ | ESPAÑA TDT",ES: Energy 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571989
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_logo_500_-1_37a2.png" group-title="▶️ | ESPAÑA TDT",ES: Divinity SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571990
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://album.mediaset.es/file/10002/2017/11/17/divinity_logo_500_-1_37a2.png" group-title="▶️ | ESPAÑA TDT",ES: Divinity 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="▶️ | ESPAÑA TDT",ES: NOVA SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571994
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Nova_logo_2010.png" group-title="▶️ | ESPAÑA TDT",ES: NOVA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571995
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Tve_clan.png" group-title="▶️ | ESPAÑA TDT",ES: Clan SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571996
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="▶️ | ESPAÑA TDT",ES: Mezzo Live SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571997
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/1200px-Logo_TVE-24h.svg.png" group-title="▶️ | ESPAÑA TDT",ES: 24H 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571998
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/364/194/png-transparent-i-want-my-mtv-1990s-1980s-logo-others-television-text-logo.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Europe 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571999
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e1.pngegg.com/pngimages/705/204/png-clipart-tv-channel-icons-mtv-black-mtv-logo.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Base 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/MTV_Dance_2017_logo.svg/1200px-MTV_Dance_2017_logo.svg.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Dance 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572001
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/706/865/png-transparent-nick-music-mtv-hits-television-channel-music-television-mtv-hits-idents-television-text-logo.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Hits 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572002
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/MTV_Classic_2017_logo.svg/1200px-MTV_Classic_2017_logo.svg.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Classic 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572003
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/91/935/png-clipart-mtv-live-hd-logo-tv-television-channel-viacom-media-networks-live-television-text.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Live 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/706/865/png-transparent-nick-music-mtv-hits-television-channel-music-television-mtv-hits-idents-television-text-logo.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Hits Europe 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572005
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2021/10/logo-MTV.png" group-title="▶️ | ESPAÑA TDT",ES: MTV Music 24 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572006
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/TenTV.png" group-title="▶️ | ESPAÑA TDT",ES: Ten 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572007
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s90320_ll_h3_aa.png" group-title="▶️ | ESPAÑA TDT",ES: TVE España FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572009
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Caza y Pesca 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572012
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.gofishingbcn.com/wp-content/uploads/2020/01/caza-y-pesca-logo-ok.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Caza y Pesca 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572013
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://urbancomunicacion.com/wp-content/uploads/2020/06/Historia-detr%C3%A1s-del-logo-de-National-Geographic-600x321.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: National Geographic 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572014
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://urbancomunicacion.com/wp-content/uploads/2020/06/Historia-detr%C3%A1s-del-logo-de-National-Geographic-600x321.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: National Geographic 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: National Geographic Wild 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572017
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: National Geographic Wild 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572019
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://amcnetworks.es/wp-content/uploads/2022/10/Nuevo-logo-Canal-HISTORIA.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Canal Historia 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572020
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://amcnetworks.es/wp-content/uploads/2022/10/Nuevo-logo-Canal-HISTORIA.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Canal Historia 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Discovery Channels 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572023
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Discovery_Channel_logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Discovery Channels 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572024
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vertele.online/wp-content/uploads/2022/03/Canal-Odisea-en-directo-logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Odisea 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572025
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/fda5608b46dea58755a37c9af00193b6_c-cocina-black.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Canal Cocina 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572027
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Decasa Tv 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572029
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/91997942b1a123a5780616e03acfa3cb_DECASA-NUEVO-LOGO-CANALTUAMC.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Decasa Tv 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572030
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Mega-TV-Espa%C3%B1a-en-directo-Online.png?fit=1920,1080&ssl=1" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: MEGA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572031
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/03/Mega-TV-Espa%C3%B1a-en-directo-Online.png?fit=1920,1080&ssl=1" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: MEGA 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572032
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Be Mad 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572034
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Be_Mad_TV.svg/1200px-Be_Mad_TV.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Be Mad 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572035
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/DKiss.svg/1200px-DKiss.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: DKISS 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572039
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iberaliago.com/media/filer_public_thumbnails/filer_public/bf/c3/bfc37a28-8351-4ed7-bcfd-f4ef05a379af/logorepeat.png__400x400_q85_subsampling-2.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberalia 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572040
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://vertele.online/wp-content/uploads/2022/03/Canal-Odisea-en-directo-logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Odisea UHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572047
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://parsefiles.back4app.com/EqXj3CWkTa9Ens1sPrzQkKMbBdnc6bYbHKR2qvRE/fda5608b46dea58755a37c9af00193b6_c-cocina-black.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Canal Cocina UHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572048
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.orange.es/ss/Satellite?blobcol=urldata&blobheadername1=Cache-Control&blobheadervalue1=max-age=3600&blobkey=id&blobnocache=false&blobtable=MungoBlobs&blobwhere=1521462446910&ssbinary=true" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Cazavision 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572051
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Crime_and_Investigation_logo.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Crimen & Investigation 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572053
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i2.wp.com/www.audiovisual451.com/wp-content/uploads/dmax-h.jpg?w=300&ssl=1" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: DMax 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572054
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberelia 100% Pesca C 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572055
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://fanc.tmsimg.com/assets/s96790_h3_aa.png" group-title="▶️ | ESPAÑA DOCUMENTALES",Iberalia 100% Caza 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572056
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOVSB81l3U8VExMsgGpDjj2-Zaj4gqCXEX23zDpbneThOoWWayOzD7aq6AD2AT92ul1gU&usqp=CAU" group-title="▶️ | ESPAÑA DOCUMENTALES",AMC Break 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572057
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9QblqVCeRX0Lr1XRNfqHzPLFzd5TVaQNBE7Wd8qDek5jEghLd9VVHgGlUDMn_vtmlig0&usqp=CAU" group-title="▶️ | ESPAÑA DOCUMENTALES",AMC Crime 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572058
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",Documentales M+ SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572061
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",Documentales M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572062
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ | ESPAÑA DOCUMENTALES",Documentales M+ FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572063
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="▶️ | ESPAÑA DOCUMENTALES",ES: Iberalia 100% Pesca A 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572065
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: #Vamos FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572222
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://boxtvmania.files.wordpress.com/2018/08/vamos.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: #Vamos HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572223
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Eurosport 1 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572230
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Eurosport 1 FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572231
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Eurosport_1_Logo_2015.svg/2560px-Eurosport_1_Logo_2015.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Eurosport 1 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572232
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Eurosport 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572233
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Eurosport_2_Logo_2015.svg/2560px-Eurosport_2_Logo_2015.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Eurosport 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572235
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Teledeporte-dem 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572236
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/Tve_teledeporte.png" group-title="▶️ | ESPAÑA | DEPORTES",ES: Teledeporte FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572237
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.infotauro.com/wp-content/uploads/2023/07/OneToro-2-860x430.jpg" group-title="▶️ | ESPAÑA | DEPORTES",ES: ONETORO HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572239
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg" group-title="▶️ | ESPAÑA | DEPORTES",Ellas #V 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2018/08/Ellas.jpg" group-title="▶️ | ESPAÑA | DEPORTES",Ellas #V FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572244
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/GOL_PLAY.svg/1280px-GOL_PLAY.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",VIP - GOL TV SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572245
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Realmadrid_Television_Logo.svg/1280px-Realmadrid_Television_Logo.svg.png" group-title="▶️ | ESPAÑA | DEPORTES",VIP - REAL MADRID TV HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572246
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.contenidostv.es/images/betis.png" group-title="▶️ | ESPAÑA | DEPORTES",VIP - CANAL BETIS TV 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572247
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.eldiario.es/clip/be97fcba-1be3-41e2-92fd-5fd7b73b227a_16-9-discover-aspect-ratio_default_0.jpg" group-title="▶️ | ESPAÑA | DEPORTES",VIP - CANAL BARCA TV FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572249
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/957/71/png-transparent-logo-brand-font-tv-channel-text-orange-logo.png" group-title="▶️ | ESPAÑA | DEPORTES",VIP - FIGHT TIME FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572263
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://sevillafc.es/sites/default/files/news/image/AAFF%20RGB%20Televisi%C3%B3n%20Sevilla%20FC_8.jpg" group-title="▶️ | ESPAÑA | DEPORTES",VIP - SEVILLA FC 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/572264
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 1 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577697
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 2 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577698
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 3 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577699
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 4 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577700
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 5 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577701
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 6 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577702
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 7 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577703
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 8 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577704
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 9 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577705
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/s2G05IFOkSB2E6w_lBAgVOJT8rYVSIX7cT5dRR7HjWhUM0smh606nQ3uqWM8sLPk7BI" group-title="▶️ | VIX DEPORTES (SOLO EVENTOS)",VIX+ 10 (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/577706
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Originales_por_Movistar_Plus%2B_2023_Logo.svg/800px-Originales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ ESPAÑA | CINEMA",Originales M+SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614075
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="▶️ ESPAÑA | CINEMA",M+ Plus SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614076
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2022/02/movistar-2619511.jpg" group-title="▶️ ESPAÑA | CINEMA",M+ Plus FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614077
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Indie_por_Movistar_Plus%2B_2023_Logo.svg/640px-Indie_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ ESPAÑA | CINEMA",Indie M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614078
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Suspense_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Suspense_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ ESPAÑA | CINEMA",M+ Suspense SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614079
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Documentales_por_Movistar_Plus%2B_2023_Logo.svg/1280px-Documentales_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ ESPAÑA | CINEMA",M+ Documentales SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="▶️ ESPAÑA | CINEMA",ES: MOVISTAR CLASICOS HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614081
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/AMC" group-title="▶️ ESPAÑA | CINEMA",ES: AMC HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614082
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PCM" group-title="▶️ ESPAÑA | CINEMA",ES: COMEDY CENTRAL HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614083
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Calle_13_Universal.png/501px-Calle_13_Universal.png" group-title="▶️ ESPAÑA | CINEMA",ES: CALLE 13 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614084
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/COSMO" group-title="▶️ ESPAÑA | CINEMA",ES: COSMO HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614085
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/qYs2x7w/Atreseries.png" group-title="▶️ ESPAÑA | CINEMA",LA: ATRESERIES HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614086
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Syfylogo.png" group-title="▶️ ESPAÑA | CINEMA",ES: SYFY HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614087
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Canal_Hollywood.png" group-title="▶️ ESPAÑA | CINEMA",ES: HOLLYWOOD HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/SundanceTVlogo.png" group-title="▶️ ESPAÑA | CINEMA",ES: SUNDANCE HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614089
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/TCM" group-title="▶️ ESPAÑA | CINEMA",ES: TCM HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614090
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Logo-bom.svg/1200px-Logo-bom.svg.png" group-title="▶️ ESPAÑA | CINEMA",ES: BOMCINE SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614091
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://fest.darktv.es/media/concursos/darkfest/img/darkfoot.png" group-title="▶️ ESPAÑA | CINEMA",ES: CANAL DARK SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614092
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_La_Resistencia.png" group-title="▶️ ESPAÑA | CINEMA",LA RESISTENCIA HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614093
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Somos.png" group-title="▶️ ESPAÑA | CINEMA",ES: SOMOS SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614094
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/FOXGE" group-title="▶️ ESPAÑA | CINEMA",ES: FOX HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614095
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Paramount_Pictures_2022_%28Blue%29.svg/1200px-Paramount_Pictures_2022_%28Blue%29.svg.png" group-title="▶️ ESPAÑA | CINEMA",ES: PARAMOUNT CHANNEL SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="▶️ ESPAÑA | CINEMA",ES: MOVISTAR CLASICOS HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg/640px-M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ ESPAÑA | CINEMA",MUSICA M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614098
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="▶️ ESPAÑA | CINEMA",ES: WARNER TV HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614099
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Warner_Channel.svg/1200px-Warner_Channel.svg.png" group-title="▶️ ESPAÑA | CINEMA",ES WARNER TV 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614100
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg/640px-M%C3%BAsica_por_Movistar_Plus%2B_2023_Logo.svg.png" group-title="▶️ ESPAÑA | CINEMA",MUSICA M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/614101
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV INFO 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657462
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 1 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657463
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 2 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657464
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 3 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657465
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 4 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657466
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 5 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657467
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 6 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657468
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 7 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657469
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 8 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657470
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 9 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657471
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 10 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657472
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 11 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657473
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 12 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657474
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 13 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 14 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657476
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 15 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657477
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 16 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657478
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 17 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657479
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 18 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657480
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 19 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657481
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://satcesc.com/wp-content/uploads/2015/08/fef-tv.jpg" group-title="⚽ FEF (SOLO EVENTOS SAB-DOM) ⚽",FEF TV 20 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/657482
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png/revision/latest/scale-to-width-down/2880?cb=20220126132619" group-title="▶️ | ESPAÑA INFANTILES",ES: Disney Junior 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571932
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Nick_Jr.logo.png" group-title="▶️ | ESPAÑA INFANTILES",ES: Nick Junior 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571933
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/logo-Nickelodeon.png" group-title="▶️ | ESPAÑA INFANTILES",ES: Nickelodeon 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571934
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://logos-world.net/wp-content/uploads/2021/08/Disney-Channel-Logo.png" group-title="▶️ | ESPAÑA INFANTILES",ES: Disney Channel 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.panoramaaudiovisual.com/wp-content/uploads/2015/07/LOGO-PANDA.png" group-title="▶️ | ESPAÑA INFANTILES",ES: Canal Panda 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571937
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/d9e0b5d56db4711f73eaff412704d132.png" group-title="▶️ | ESPAÑA INFANTILES",ES: Boing 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571938
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efee1b34-200f-4c32-8ab9-b860c202f1d4/dd9vdzm-3ba0d1b2-5147-4a6a-9d00-1d9a6ad57a56.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZWUxYjM0LTIwMGYtNGMzMi04YWI5LWI4NjBjMjAyZjFkNFwvZGQ5dmR6bS0zYmEwZDFiMi01MTQ3LTRhNmEtOWQwMC0xZDlhNmFkNTdhNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TkUh34c-PUQC7tAnXius0F7bp53gXv4i1dQNRmbAfCw" group-title="▶️ | ESPAÑA INFANTILES",ES: Dreamworks 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571940
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/efee1b34-200f-4c32-8ab9-b860c202f1d4/dd9vdzm-3ba0d1b2-5147-4a6a-9d00-1d9a6ad57a56.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2VmZWUxYjM0LTIwMGYtNGMzMi04YWI5LWI4NjBjMjAyZjFkNFwvZGQ5dmR6bS0zYmEwZDFiMi01MTQ3LTRhNmEtOWQwMC0xZDlhNmFkNTdhNTYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.TkUh34c-PUQC7tAnXius0F7bp53gXv4i1dQNRmbAfCw" group-title="▶️ | ESPAÑA INFANTILES",ES: Dreamworks 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571941
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICK" group-title="▶️ | ESPAÑA INFANTILES",ES: NICKELODEON HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571942
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICK" group-title="▶️ | ESPAÑA INFANTILES",ES: NICKELODEON FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571943
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICKJR" group-title="▶️ | ESPAÑA INFANTILES",ES: NICK JUNIOR FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571944
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/PLAYDC" group-title="▶️ | ESPAÑA INFANTILES",ES: DISNEY JUNIOR HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571945
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICKJR" group-title="▶️ | ESPAÑA INFANTILES",ES: NICK JUNIOR HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571948
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/NICK" group-title="▶️ | ESPAÑA INFANTILES",ES: NICKELODEON FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571949
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCH" group-title="▶️ | ESPAÑA INFANTILES",ES: DISNEY CHANNEL FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571950
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/DCH" group-title="▶️ | ESPAÑA INFANTILES",ES: DISNEY CHANNEL HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571952
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://xplatinmedia.com:8080/images/d9e0b5d56db4711f73eaff412704d132.png" group-title="▶️ | ESPAÑA INFANTILES",ES: BOING SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571953
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLANTV" group-title="▶️ | ESPAÑA INFANTILES",ES: CLAN FHD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571954
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.movistarplus.es/recorte/m-DPBLAN/wpmos/CLANTV" group-title="▶️ | ESPAÑA INFANTILES",ES: CLAN HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571955
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1" group-title="⚽Liga De Campeones",ES: M+ Liga de Campeones 2 FHD (OP1) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/678874
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1" group-title="⚽Liga De Campeones",ES: M+ Liga de Campeones 2 HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/678875
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1" group-title="⚽Liga De Campeones",ES: M+ Liga de Campeones 2 SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/678876
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1" group-title="⚽Liga De Campeones",ES: M+ Liga de Campeones 8 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/679132
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="⚽Liga De Campeones",ES: Liga de Campeones M+ HD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/679133
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAPIO.png" group-title="⚽Liga De Campeones",Liga de Campeones por M+ SD 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/679134
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",01 | VIX LA LIGA HD (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695767
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",02 | VIX LA LIGA HD (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695768
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",03 | VIX LA LIGA HD (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695769
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",04 | VIX LA LIGA HD (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695770
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",05 | EVENTO PPV 1 ⚽ 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695771
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",05 | EVENTO PPV 2 ⚽ 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695772
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",07 | EVENTO PPV 3 ⚽ 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695773
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://maruchan.com.mx/web/wp-content/uploads/2022/11/feliz-ano-nuevo-maruchan.jpg" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",08 | EVENTO PPV 4 ⚽ 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695774
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGUFFbrfXYB8lfsnABk1bg2NfjQNNvYBfbxw&usqp=CAU" group-title="⭐ | EVENTOS PPV (SOLO EVENTOS)",03 | VIX LA LIGA HD (SOLO EVENTOS) 
+http://zonamovie.live:8080/Jhontv/Jhon20231@/695775
