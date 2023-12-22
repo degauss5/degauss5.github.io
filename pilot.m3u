@@ -1,14 +1,22 @@
 #EXTM3U url-tvg="https://helmerluzo.github.io/EPG_HL/epg/wictvthrones_EPG_HL.xml.gz"
 #EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="📺TDT",[1] La 1 [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336161
+#EXTINF:-1 tvg-id="es.la1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la1.png" group-title="📺TDT",[2] La 1 [FHD 25]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408956
 #EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="📺TDT",[1] La 2 [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336167
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="📺TDT",[2] La 2 [FHD 25]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571966
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="📺TDT",[1] Antena 3 [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336169
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="📺TDT",[2] Antena 3 [HD]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/408961
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="📺TDT",[1] Cuatro [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336175
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="📺TDT",[1] Telecinco [HD]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336177
+#EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="📺TDT",[2] Telecinco [FHD 25]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/571974
 #EXTINF:-1 tvg-id="es.lasexta" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.lasexta.png" group-title="📺TDT",[1] La Sexta [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336181
 #EXTINF:-1 tvg-id="es.amc" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.amc.png" group-title="🎥Cine y series",[1] AMC [FHD 25]
@@ -109,10 +117,14 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336237
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/452539
 #EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="⚽LaLigaTV",[3] M+ LaLigaTV [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/460349
+#EXTINF:-1 tvg-id="es.mlaligatv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv.png" group-title="⚽LaLigaTV",[4] M+ LaLigaTV [FHD 25]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560992
 #EXTINF:-1 tvg-id="es.mlaligatv2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mlaligatv2.png" group-title="⚽LaLigaTV",[1] M+ LaLigaTV 2 [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336254
 #EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="⚽LaLigaTV",[1] DAZN LaLiga [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/119552
+#EXTINF:-1 tvg-id="es.daznlaliga" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga.png" group-title="⚽LaLigaTV",[2] DAZN LaLiga [FHD 50]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/560990
 #EXTINF:-1 tvg-id="es.daznlaliga2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznlaliga2.png" group-title="⚽LaLigaTV",[2] DAZN LaLiga 2 [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/154234
 #EXTINF:-1 tvg-id="es.laligasmart" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laligasmart.png" group-title="⚽LaLigaTV Hypermotion",[1] LaLigaTV Hypermotion [FHD 25]
@@ -123,12 +135,20 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/453251
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/457524
 #EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="⚽Liga de Campeones",[2] M+ Liga de Campeones [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336222
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="⚽Liga de Campeones",[3] M+ Liga de Campeones [HD]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565889
+#EXTINF:-1 tvg-id="es.mchampions" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions.png" group-title="⚽Liga de Campeones",[4] M+ Liga de Campeones [HD]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/679134
 #EXTINF:-1 tvg-id="es.mchampions2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions2.png" group-title="⚽Liga de Campeones",[1] M+ Liga de Campeones 2 [HD+]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336223
+#EXTINF:-1 tvg-id="es.mchampions2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mchampions2.png" group-title="⚽Liga de Campeones",[2] M+ Liga de Campeones 2 [FHD 25]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/565894
 #EXTINF:-1 tvg-id="es.daznf1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.daznf1.png" group-title="🏎 F1",[1] DAZN F1 [SP] [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336370
 #EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="🥇Deportes",[1] DAZN 1 [FHD 50]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336350
+#EXTINF:-1 tvg-id="es.dazn1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn1.png" group-title="🥇Deportes",[2] DAZN 1 [FHD 50]
+http://zonamovie.live:8080/Jhontv/Jhon20231@/544241
 #EXTINF:-1 tvg-id="es.dazn2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.dazn2.png" group-title="🥇Deportes",[1] DAZN 2 [FHD 50]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336355
 #EXTINF:-1 tvg-id="es.eurosport1" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.eurosport1.png" group-title="🥇Deportes",[1] Eurosport 1 [FHD 25]
