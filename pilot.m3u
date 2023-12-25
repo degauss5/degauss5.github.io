@@ -7,10 +7,14 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/408956
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336167
 #EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="📺TDT",[2] La 2 [FHD 25]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/571966
+#EXTINF:-1 tvg-id="es.la2" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.la2.png" group-title="📺TDT",[3] La 2 [FHD 50]
+http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336165
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="📺TDT",[1] Antena 3 [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336169
 #EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="📺TDT",[2] Antena 3 [HD]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/408961
+#EXTINF:-1 tvg-id="es.antena3" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.antena3.png" group-title="📺TDT",[3] Antena 3 [FHD 50]
+http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336165
 #EXTINF:-1 tvg-id="es.cuatro" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cuatro.png" group-title="📺TDT",[1] Cuatro [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336175
 #EXTINF:-1 tvg-id="es.telecinco" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.telecinco.png" group-title="📺TDT",[1] Telecinco [HD]
@@ -31,6 +35,8 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/109763
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/490905
 #EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="🎥Cine y series",[2] AXN [HD]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/409021
+#EXTINF:-1 tvg-id="es.axn" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.axn.png" group-title="🎥Cine y series",[3] AXN [HD+]
+http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336316
 #EXTINF:-1 tvg-id="Atreseries" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" group-title="🎥Cine y series",[1] A3Series [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336330
 #EXTINF:-1 tvg-id="es.bemadtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.bemadtv.png" group-title="🎥Cine y series",[1] Be Mad TV [FHD 25]
@@ -43,10 +49,14 @@ http://zonamovie.live:8080/Jhontv/Jhon20231@/408987
 http://zonamovie.live:8080/Jhontv/Jhon20231@/409022
 #EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="🎥Cine y series",[2] Comedy Central [HD]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/614083
+#EXTINF:-1 tvg-id="es.comedycentral" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.comedycentral.png" group-title="🎥Cine y series",[3] Comedy Central [HD+]
+http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336333
 #EXTINF:-1 tvg-id="es.cosmo" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.cosmo.png" group-title="🎥Cine y series",[1] Cosmo [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336344
 #EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="🎥Cine y series",[1] Dark [HD]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336451
+#EXTINF:-1 tvg-id="DARK" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DARK.png" group-title="🎥Cine y series",[2] Dark [FHD 25]
+http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336452
 #EXTINF:-1 tvg-id="es.divinity" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.divinity.png" group-title="🎥Cine y series",[1] Divinity [SD]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336197
 #EXTINF:-1 tvg-id="es.energy" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.energy.png" group-title="🎥Cine y series",[1] Energy [HD]
@@ -95,12 +105,14 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336204
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336191
 #EXTINF:-1 tvg-id="M+ Música" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="🎭Lifestyle",[1] M+ Musica [HD]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/453131
-#EXTINF:-1 tvg-id="es.mtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mtv.png" group-title="🎭Lifestyle",[1] MTV EspaÃ±a [HD]
+#EXTINF:-1 tvg-id="es.mtv" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mtv.png" group-title="🎭Lifestyle",[1] MTV España [HD]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/457317
 #EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="🍿M+ Cine y Series",[1] M+ Plus [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336302
 #EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="🍿M+ Cine y Series",[2] M+ Plus [FHD 25]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/614077
+#EXTINF:-1 tvg-id="es.mplus" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mplus.png" group-title="🍿M+ Cine y Series",[3] M+ Plus [FHD 25]
+http://flashprinttv.com:2086/GMWsZtFETunJ/2HynLASEAQ6Z/336301
 #EXTINF:-1 tvg-id="es.mcine" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcine.png" group-title="🍿M+ Cine y Series",[1] M+ Cine [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336292
 #EXTINF:-1 tvg-id="es.mseries" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mseries.png" group-title="🍿M+ Cine y Series",[1] M+ Series [FHD 25]
@@ -109,9 +121,9 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336312
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/454804
 #EXTINF:-1 tvg-id="es.moriginales" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.moriginales.png" group-title="🍿M+ Cine y Series",[2] M+ Originales [FHD 25]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/614075
-#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="🍿M+ Cine y Series",[1] M+ ClÃ¡sicos [FHD 25]
+#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="🍿M+ Cine y Series",[1] M+ Clásicos [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336313
-#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="🍿M+ Cine y Series",[2] M+ ClÃ¡sicos [HD]
+#EXTINF:-1 tvg-id="es.mclasicos" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mclasicos.png" group-title="🍿M+ Cine y Series",[2] M+ Clásicos [HD]
 http://zonamovie.live:8080/Jhontv/Jhon20231@/614081
 #EXTINF:-1 tvg-id="es.maccion" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.maccion.png" group-title="🍿M+ Cine y Series",[1] M+ AcciÃ³n [FHD 25]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336294
@@ -123,7 +135,7 @@ http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336300
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336304
 #EXTINF:-1 tvg-id="es.mindie" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mindie.png" group-title="🍿M+ Cine y Series",[1] M+ Indie [HD+]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/451960
-#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="🍿M+ Cine y Series",[1] M+ Cine EspaÃ±ol [HD+]
+#EXTINF:-1 tvg-id="es.mcineespanol" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.mcineespanol.png" group-title="🍿M+ Cine y Series",[1] M+ Cine Español [HD+]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336310
 #EXTINF:-1 tvg-id="es.laresistencia" tvg-name="" tvg-logo="https://helmerluzo.github.io/EPG_HL/picons/tv/es.laresistencia.png" group-title="🍿M+ Cine y Series",[1] M+ La Resistencia 24H [HD+]
 http://flashprinttv.com:2086/AGHxghnnWvR7/dv8L2J3vbSJX/336898
