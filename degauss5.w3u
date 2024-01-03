@@ -1,22 +1,22 @@
 {
   "name": "Listas degauss5",
   "author": "degauss5",
-  "image": "https://degauss5.github.io/degauss5.png",
+  "image": "https://degauss5.github.io/@degauss5.png",
   "url": "https://degauss5.github.io/degauss5.w3u",
   "groups": [
         {
           "name": "CANALES TV",
-          "image": "https://degauss5.github.io/tv.png",
+          "image": "https://degauss5.github.io/@tv.png",
           "url": "https://bit.ly/4alvKIv"
         },
         {
           "name": "DEPORTES",
-          "image": "https://degauss5.github.io/deportes.png",
+          "image": "https://degauss5.github.io/@deportes.png",
           "url": "https://bit.ly/3NbI1oI"
         },
         {
           "name": "VOD",
-          "image": "https://degauss5.github.io/cine.png",
+          "image": "https://degauss5.github.io/@cine.png",
           "url": "https://bit.ly/3sVYCGp"
         }
   ]
