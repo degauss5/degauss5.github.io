@@ -23,11 +23,6 @@
             "name": "RAKUTEN TV",
             "image": "https://play-lh.googleusercontent.com/83p_CXCRvPSQRcZQvFrPJYvDralOoYJiK-hP4zuK8ChjD0-F1e5Sc3kyVe-DjOMiHGs",
             "url": "https://raw.githubusercontent.com/HelmerLuzo/RakutenTV_HL/main/tv/w3u/RakutenTV_tv.w3u"
-        },
-        {
-            "name": "CANELA TV",
-            "image": "https://play-lh.googleusercontent.com/nGSJiclhwDVCsZSRlniu24xUhtI30Q-c7ODuTQv7MK5uiaZkT0fbXaC-Tf49_lKwCzs",
-            "url": "https://raw.githubusercontent.com/HelmerLuzo/CanelaTV_HL/main/tv/w3u/CanelaTV_tv.w3u"
         }
   ]
 }
