@@ -13,6 +13,16 @@
           "name": "DEPORTES",
           "image": "https://degauss5.github.io/images/%40deportes.png",
           "url": "https://bit.ly/3NbI1oI"
+        },
+        {
+          "name": "IPTV A1FICIONADOS",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUcvNbdlgliNQWT4_-ceA2ruLvo9uaOyNnYkywhwtPRytf61XPEgdKHiBSuaJK4UjlFM&usqp=CAU",
+          "url": "https://degauss5.github.io/ws/iptv_af1cionados.w3u"
+        },
+        {
+          "name": "IPTV TEST",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUcvNbdlgliNQWT4_-ceA2ruLvo9uaOyNnYkywhwtPRytf61XPEgdKHiBSuaJK4UjlFM&usqp=CAU",
+          "url": "https://degauss5.github.io/ws/iptv_test.w3u"
         }
   ]
 }
