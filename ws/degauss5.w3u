@@ -23,6 +23,11 @@
           "name": "IPTV TEST",
           "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUcvNbdlgliNQWT4_-ceA2ruLvo9uaOyNnYkywhwtPRytf61XPEgdKHiBSuaJK4UjlFM&usqp=CAU",
           "url": "https://degauss5.github.io/ws/iptv_test.w3u"
+        },
+{
+          "name": "VOD",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdUcvNbdlgliNQWT4_-ceA2ruLvo9uaOyNnYkywhwtPRytf61XPEgdKHiBSuaJK4UjlFM&usqp=CAU",
+          "url": "https://degauss5.github.io/ws/vod.w3u"
         }
   ]
 }
