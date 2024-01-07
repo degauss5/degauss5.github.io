@@ -1,1 +1,8 @@
-
+{
+  "name": "IPTV TEST",
+  "author": "degauss5",
+  "image": "https://degauss5.github.io/images/%40degauss5.png",
+  "url": "https://degauss5.github.io/ws/iptv_test.w3u",
+  "groups": [
+  ]
+}
