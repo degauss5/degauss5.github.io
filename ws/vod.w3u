@@ -9,9 +9,19 @@
             "url": "https://helmerluzo.github.io/PlutoTV_HL/vod/w3u/PlutoTV_vod_ES.w3u"
         },
         {
-            "name": "CHUKY CINE Y SERIES",
+            "name": "CINE Y SERIES CHUKY ",
             "image": "https://1.bp.blogspot.com/-kaoSEPayia8/TnTSo_tPToI/AAAAAAAAEhw/Wgi6JqxGo0Q/s1600/Chucky-video-game-Wallpaper-2.jpg",
             "url": "https://raw.githubusercontent.com/chukyvaliente/chukycine/main/chukycine"
+        },
+        {
+            "name": "PELÍCULAS A1FICIONADOS",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGOF2WcK935vEVUesIIXLAaCOXFNPwDQjpHzixKEGfBipOKUV1JUq1Z64SfHVNPrtsTO0&usqp=CAU",
+            "url": "https://aficionados.vercel.app/06.0.0.Menu.MovIEs.w3u"
+        },
+        {
+            "name": "DOCUMENTALES A1FICIONADOS",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfcvrxC9IhElCdq499nLJoKtuxZfQy6dmwmBL85t70vd73eQgJ__ZlWbPAiSxzeWU074w&usqp=CAU",
+            "url": "https://aficionados.vercel.app/04.0.Menu.DoCUmENTaLeS.w3u"
         }
   ]
 }
