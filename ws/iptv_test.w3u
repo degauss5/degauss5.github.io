@@ -4,5 +4,119 @@
   "image": "https://degauss5.github.io/images/%40degauss5.png",
   "url": "https://degauss5.github.io/ws/iptv_test.w3u",
   "groups": [
+{
+"name": "ctc.38serve.xyz",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068017.png",
+"url": "http://ctc.38serve.xyz/get.php?username=ja1028927&password=CsuQNwb7YpVt&type=m3u_plus",
+"import": false
+},
+{
+"name": "boxdigital.xyz",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068073.png",
+"url": "http://boxdigital.xyz:8080/get.php?username=cambiotbentertaiment&password=UGDV8EYSZh6Z&type=m3u_plus",
+"import": false
+},
+{
+"name": "goodiptv.cc",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068129.png",
+"url": "http://goodiptv.cc:80/get.php?username=DHRM9MEY6S&password=6ykyBncv5nyK&type=m3u_plus",
+"import": false
+},
+{
+"name": "spacetvplay.com(100c)",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068184.png",
+"url": "http://spacetvplay.com:8080/get.php?username=RMVBU&password=HZSEP&type=m3u_plus",
+"import": false
+},
+{
+"name": "95388891237321276.ofip231209.xyz (3c)",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068238.png",
+"url": "http://95388891237321276.ofip231209.xyz:80/get.php?username=fe46044&password=aHk9eJmwTdm7&type=m3u_plus",
+"import": false
+},
+{
+"name": "exm3u.ofio.xyz",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068292.png",
+"url": "http://exm3u.ofio.xyz:80/get.php?username=mi928020&password=QmKHT8YHt6&type=m3u_plus",
+"import": false
+},
+{
+"name": "nxt.plus (3c)",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068348.png",
+"url": "http://nxt.plus:8080/get.php?username=frankssmz&password=443218&type=m3u_plus",
+"import": false
+},
+{
+"name": "181205130194",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068393.png",
+"url": "http://181.205.130.194:4000/playlist.m3u8",
+"import": false
+},
+{
+"name": "8242126186",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067930.png",
+"url": "http://8.242.126.186:7777/playlist.m3u8",
+"import": false
+},
+{
+"name": "204.199.113.33",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067958.png",
+"url": "http://204.199.113.33:15017/playlist.m3u8",
+"import": false
+},
+{
+"name": "200116199180",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067966.png",
+"url": "http://200.116.199.180:8000/playlist.m3u8",
+"import": false
+},
+{
+"name": "200.59.188.3",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067973.png",
+"url": "http://200.59.188.3:8000/playlist.m3u8",
+"import": false
+},
+{
+"name": "fortv.cc (5c)",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067981.png",
+"url": "http://fortv.cc:8080/get.php?username=lorenamt2023@gmail.com&password=lorenamt2023@2023&type=m3u_plus",
+"import": false
+},
+{
+"name": "flashprinttv.com (3c)",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067987.png",
+"url": "http://flashprinttv.com:2086/get.php?username=ph4PP3uW84xE&password=zHmmN7Dx8hwU&type=m3u_plus",
+"import": false
+},
+{
+"name": "fast-iptv.xyz (4c)",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067993.png",
+"url": "http://fast-iptv.xyz:25461/get.php?username=rGaKpjvGha&password=AVSnwJZ2db&type=m3u_plus",
+"import": false
+},
+{
+"name": "abc123.digital",
+"image": "https://cdn-icons-png.flaticon.com/128/8067/8067999.png",
+"url": "http://abc123.digital:8080/get.php?username=paysandsy@gmail.com&password=eF8ZEN1bnt&type=m3u_plus",
+"import": false
+},
+{
+"name": "aflaxtv.xyz",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068005.png",
+"url": "http://aflaxtv.xyz:8080/get.php?username=jinbox&password=mGDn7NqvgQpM8arMWz&type=m3u_plus",
+"import": false
+},
+{
+"name": "95.214.235.96",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068011.png",
+"url": "http://95.214.235.96:8880/get.php?username=12mms050017&password=91756466&type=m3u_plus",
+"import": false
+},
+{
+"name": "th4.online",
+"image": "https://cdn-icons-png.flaticon.com/128/8068/8068023.png",
+"url": "http://th4.online:2095/get.php?username=RESTREAMIOTV84&password=FLEXTVRESTRE&type=m3u_plus",
+"import": false
+}
   ]
 }
